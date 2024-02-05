@@ -8,8 +8,6 @@
   <ul style="list-style:none; margin-left: -15px;">
     <a  href="#resumo-estatístico-das-variáveis">Resumo Estatístico das variáveis</a><br>
     <ul style="list-style:none;">
-      <a href="#função-que-calcula-o-resumo-estatístico-para-variáveis-númericas">* Função 1</a><br>
-      <a href="#função-que-retorna-valor-único">* Função 2</a><br>
       <a href="#1-resumo-tamanho-da-família"> 1 Resumo Tamanho da Família</a><br>
       <a href="#2resumo-valor-total-do-pedido-em-usd">2 Resumo Valor Total do Pedido (em USD)</a><br>
       <a href="#">3. Resumo Quantidade de itens encomendados</a><br>
