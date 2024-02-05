@@ -1,4 +1,4 @@
-<Img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Banner_para_README.png" >
+<Img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Banner_para_README3.png" >
 
 <div>
 <h2>Tabela de Conteúdo</h2> 
