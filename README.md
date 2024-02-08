@@ -485,8 +485,101 @@ Não há uma relação clara entre as duas variáveis. Por exemplo, Japonese é 
 <br><br>
 
 ## Análise do Perfil dos clientes
-#### **37. Qual o Tamanho médio  das Famílias ?** 
+### **37. Qual o Tamanho médio  das Famílias ?** 
 O tamanho médio das famílias é de 3 à 4 pessoas. 
-![](../Imagens/Analise_Descritiva_Geral/Q.37_card_tamanho_familia.png)
-[<img src="../Imagens/Analise_Descritiva_Geral/Q.37_card_tamanho_familia.png" width="50%">](../Imagens/Analise_Descritiva_Geral/Q.37_card_tamanho_familia.png)
+
+###  **38. Qual a porcentagem de mulheres e homens ?** 
+Há 43% de clientes mulheres e 56% de clientes homens
+
+### **39. Valor total do pedido (sales_amount_usd) x  Tamanho das Famílias** 
+Foi utilizado a média e a mediana do valor total do pedido. Pois estes dois valores são bem diferentes.
+<ul>
+   <li><b>Usando a Média:</b>As famílias tem de 1 à 6 membros. E, as famílias com 5 pessoas são as que mais gastam ; seguidas das famílias com 1 e 6 pessoas. As famílias com 2 e 4 membros têm os menores gastos.</li>
+   <li><b>Usando a Mediana:</b> As famílias com 6 membros tiveram o maior gasto, seguido pelas famílias de 5,4 e 3 membros.</li>
+</ul>
+
+
+### **40. Preço do item comprado (price_usd) x  Tamanho das Famílias** 
+Será analisada a relação entre o preço dos itens comprados e o tamanho da família. Para isso será utilizado a média e a mediana de ‘price_usd’.
+<br><br>
+A média tem valores mais altos do que a mediana. E, a diferença entre as duas é baixa.
+<ul>
+  <li><b>Usando a Média:</b>os valores são bem próximos. As famílias com 2 membros compram itens mais caros. Em seguida, estão as famílias com 1, 5, 4, 3 e 6 membros.</li> 
+  <li><b>Usando a Mediana:</b> Os valores são bem parecidos. Famílias de tamanho 1, 2 e 4 compram a mesma quantidade de itens. Da mesma forma, famílias com 3,5 e 6 pessoas também compram a mesma quantidade de itens.</li>
+</ul>
+
+### **41. Quantidade de itens comprados (sales_qty) x  Tamanho das Famílias** 
+Será analisada a relação entre a quantidade de itens comprados e o tamanho da família. Para isso será utilizado a média e a mediana de ‘sales_qty’.
+<br><br>
+A média tem valores mais altos do que a mediana. E, a diferença entre as duas é grande.
+<ul>
+  <li><b>Usando a Média:</b> famílias de tamanho 4 compram a maior quantidade de itens. Seguidas pelas famílias de tamanho 3,5,6 e 1, respectivamente.</li> 
+  <li><b>Usando a Mediana:</b> os valores são iguais, todas compram 2 itens.</li>
+</ul>
+
+
+
+### **42. Valor total do pedido (sales_amount) X  renda mensal do usuário (Monthly Income)**
+O objetivo agora é analisar a relação entre o valor do pedido total e a renda mensal do cliente. Na documentação da base de dados não foi especificada em que moeda está a renda mensal. 
+<br>
+Ela está dividida em 5 categorias:
+<ul> 
+  <li>Sem renda;</li> 
+  <li>Renda menor que 10.000;</li>
+  <li> Entre 10.001 e 25.000;</li>
+  <li> Entre 25.001 e 50.000; </li>
+  <li>Mais que 50.000 . </li> 
+</ul>
+<br>
+Além disso, como a média e mediana do valor total do pedido são diferentes, será analisado ambos.
+<ul> 
+  <li>
+  <b>Usando a Média:</b> parece não haver um padrão entre o valor da renda e o valor do pedido. Pessoas que ganham <b>entre 25.001 e 50.000</b> são as que tem <b>maior valor total do pedido.</b> <br>
+  Em <b>segundo lugar</b> estão as <b>pessoas sem renda (no income)</b>. <br>
+  Em <b>terceiro lugar</b> estão as pessoas que ganham <b>entre 10.001 e 25.000</b>. Estas duas categorias têm valores muito próximos, com diferença de 0.16 USD. <br>
+  E, <b>por último</b>, estão as pessoas que ganham <b>menos que 10.000</b>.
+  </li>
+  <li>
+  <b>Usando a Mediana:</b> também parece não haver um padrão entre as variáveis.Porém, os valores são muito parecidos. <br>
+  As pessoas que ganham entre <b>10.001 e 25.000</b> tem <b>os maiores valores do pedido total.</b> 
+  Em <b>segundo lugar</b> está as pessoas <b>sem renda (no income).</b> <br>
+  E, em <b>terceiro e quarto lugar</b> estão, respectivamente, as pessoas que ganham  <b>More than 50.000</b> e <b>25.001 to 50.000</b>. A diferença entre as duas posições é baixa, de 0,05 USD. <br>
+  Em <b>último lugar</b> estão as pessoas que ganham <b>menos que 10.000</b>.
+ </li>
+</ul>
+<br><br>
+Levando em considerando os resultados usando a média e a mediana. Pode-se concluir algumas coisas:
+<ul style="list-style: circle;">
+  <li>Em geral, pessoas que ganham menos que 10.000 são as que gastam menos por pedido na Zomato. 
+  </li>
+  <li>Pessoas sem renda têm os maiores valores totais por pedido. Algo que pode ser contraditório. Porém, levando em consideração que os clientes tem entre 18 e 33 anos, é possível que essas pessoas sem renda sejam estudantes bancados pelos pais que possuem um bom poder aquisitivo.
+  </li>
+  <li>Pessoas que ganham entre 25.001 e 50.000 também gastam por pedido muito na Zomato.</li>
+</ul>
+
+## **Análise Dias na Semana**
+### **43. Geral: Número de Vendas por Dia da Semana** 
+Será feita a contagem das vendas feitas em cada dia da semana de forma geral (usando todos os anos disponíveis na base).
+<br><br>
+Sobre o resultado, o que mais chama a atenção é que nos fins de semana o número de vendas cai bastante. Foi pesquisado o motivo disso acontecer, porém não foi encontrado uma explicação.
+<br>
+Algumas teorias podem explicar isso:
+<ul style="list-style: decimal;">
+  <li>
+    Pode ser que o sistema da Zomato não registre as vendas nos fins de semana, deixando para fazer isso na segunda, por exemplo.
+  </li>
+  <li>
+    Também é possível que os indianos prefiram cozinhar em casa nos fins de semana. Não foi encontrado nenhum artigo que trate do assunto, porém há uma postagem do site Quora explicando que é uma norma cultural as famílias indianas compartilharem refeições e que “cozinhar em casa é muitas vezes a principal forma de fornecer refeições.” <a href="https://www.quora.com/Do-Indians-order-less-food-when-eating-out-but-cook-more-at-home">(MONDOL,T; 2023)</a>
+  </li>
+  <li>
+    Uma terceira teoria é que nos fins de semana, os indianos preferem comer fora. De acordo com um estudo feito por
+    <a href="https://ieeexplore.ieee.org/abstract/document/7754477">Mohan et. al (2016)</a>, as famílias indianas tem mudado seus hábitos e passam os fins de semana em complexos comerciais, como shoppings. Devido a isso, as famílias têm feito as refeições dos fins de semana nas praças de alimentação ou em restaurantes próximos aos shoppings.
+  </li>
+<ul>
+
+### **44. Vendas por Dia da Semana para Cada Ano** 
+Buscou-se analisar vendas em cada dia semana separadas pelos anos.
+<br>
+É possível observar que em 2018 e 2019 houve um aumento nas vendas. Porém em 2020 , as vendas diminuíram, provavelmente, isso aconteceu por causa da pandemia de Covid19. 
+
 
