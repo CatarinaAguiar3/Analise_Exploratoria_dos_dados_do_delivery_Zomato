@@ -457,29 +457,29 @@ Pode-se concluir que <b>há associação entre as variáveis</b>. De modo que,  
 ### **33. Existe correlação entre a classificação do restaurante e o custo médio por pessoa?** 
 Em ambas as correlações o resultado foi positivo e o p-valor foi muito baixo. Indicando que existe associação entre associação entre as variáveis. De modo, que um aumento da classificação do restaurante está associado a um aumento no custo médio. 
 <br><br>
-<img src="" width="50%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.33_Correlacoes.png" width="50%" >
 <br><br>
 
 ### **34. Qual a correlação entre o preço médio da refeição e a classificação do restaurante?** 
 As correlações deram um valor positivo e baixo. E, os p-valor foram significativos. Portanto, existe uma associação positiva (mas fraca) entre o preço médio da refeição e a classificação do restaurante.
 <br><br>
-<img src="" width="50%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.34_Correlacoes.png" width="50%" >
 <br><br>
 
 ###  **35. Quais os tipos de restaurantes com a pontuação mais alta?**
 As comidas Paan , Ice Cream, Waffle e Coastal possuem  as pontuações mais altas.
 <br><br>
-<img src="" width="50%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.35_Tabela.png" width="50%" >
 <br><br>
 
 ###  **36. Qual a classificação média das 10 categorias de restaurantes com preço médio mais alto?** 
 Foi analisado os 10 tipos de restaurantes com maiores os preços mais altos. A partir daí, foi encontrado a classificação média deles.
-<br><br> 
-Não há uma relação clara entre as duas variáveis. Por exemplo, Japonese é o tipo de restaurante com o maior preço e também possui uma classificação alta. Entretanto, Middle Eastern tem um dos preços mais baixos e também possui uma classificação alta.
-<br><br>
-<mark>**Pode-se afirmar que os tipos de restaurantes com maiores preços têm boas classificações (acima de 3.8)**</mark> 
 <br>
-<img src="../Imagens/Analise_Descritiva_Geral/Q.36/Q.36_tabela_preco_e_classificacao1.png" width="80%">
+Não há uma relação clara entre as duas variáveis. Por exemplo, Japonese é o tipo de restaurante com o maior preço e também possui uma classificação alta. Entretanto, Middle Eastern tem um dos preços mais baixos e também possui uma classificação alta.
+<br>
+<mark>**Pode-se afirmar que os tipos de restaurantes com maiores preços têm boas classificações (acima de 3.8)**</mark> 
 <br><br>
-<img src="" width="50%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.36_tabela_preco_e_classificacao1.png" width="60%">
+<br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.36_Grafico.png" width="80%" >
 <br><br>
