@@ -592,4 +592,33 @@ Supondo que o antecedente seja leite o consequente seja pão.<br>
 [<img src="../Imagens/Regra_de_Associação/leite.implica.em.pao.png" width="50%" >](../Imagens/Regra_de_Associação/leite.implica.em.pao.png)
 <br>
 
+**Antecedent support:** Proporção de transações no seu conjunto de dados que contém o(s) antecedente(s). <br>
+[<img src="../Imagens/Regra_de_Associação/antecedent_support.png" width="70%">](../Imagens/Regra_de_Associação/antecedent_support.png) <br>
+Por exemplo, supondo que antecedent support é igual a 0.14. Significa que 14% das transações da base de dados possuem leite.
+<br><br>
 
+**Consequent support:** Proporção de transações no seu conjunto de dados que contém o(s) consequente(s).<br>
+[<img src='../Imagens/Regra_de_Associação/consequent_support1.png' width="70%"> ](../Imagens/Regra_de_Associação/consequent_support1.png)<br>
+Por exemplo, supondo que consequent support é igual a 0.21. Significa que 21% das transações da base de dados possuem pão.
+<br><br>
+
+**Support:** Proporção de transações no seu conjunto de dados que contêm ambos os itens, tanto o antecedente quanto o consequente. Ou seja, é o número de transações para as quais uma regra faz a predição correta (utilidade). Suporte está associado a significância de estatística da regra.<br>
+Esta métrica serve para eliminar regras pouco interessantes, ou, eliminar conjunto de itens que não atendem ao critério mínimo. 
+[<img src="../Imagens/Regra_de_Associação/support.png" width="70%">](../Imagens/Regra_de_Associação/support.png)
+<br>
+Por exemplo, sendo o antecedente pão e o consequente leite. Se o support for igual a 0.10, significa que 10% das transações contém pão e leite juntos.
+<br><br>
+
+**Confidence:** número de transações que a regra prediz corretamente entre as transações para as quais a regra se aplica (certeza). Ou seja, esta medida define a probabilidade de ocorrência do consequente no carrinho dado que o carrinho já possui os antecedentes. Esta métrica está associada a acurácia ou precisão.<br>
+[<img src="../Imagens/Regra_de_Associação/confidence.png" width="70%">](../Imagens/Regra_de_Associação/confidence.png)
+<br>
+Por exemplo, se o confidence for igual a 0.76, significa que há 76% de chance de uma transação que tem pão também ter leite.
+<br><br>
+
+**Lift:** mede o grau em que dois itens são dependentes um do outro, em comparação com o que seria esperado se fossem independentes. 
+<br>
+Um valor de elevação de 1 indica que os dois itens são independentes, um valor maior que 1 indica uma associação positiva, enquanto um valor menor que 1 indica uma associação negativa.
+<br>
+Por exemplo, se lift for igual a 2.1 , significa que a chance de encontrar pão e leite juntos é 2.1 vezes maior do que encontrar cada um individualmente.
+
+## Interpretação do Resultado da Regra de Associação 2 
