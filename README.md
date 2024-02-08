@@ -582,4 +582,14 @@ Buscou-se analisar vendas em cada dia semana separadas pelos anos.
 <br>
 É possível observar que em 2018 e 2019 houve um aumento nas vendas. Porém em 2020 , as vendas diminuíram, provavelmente, isso aconteceu por causa da pandemia de Covid19. 
 
+# Regra de associação 
+## Introdução à Regras de Associação
+As regras de associação ajudam a descobrir relacionamentos entre itens de uma base de dados. Essas regras possuem alguns elementos importantes como:<br>
+**Antecedentes**: Conjunto de itens que precisam estar presentes na transação para que a regra se aplique.<br>
+**Consequentes**: Conjunto de itens que é previsto pela regra. Em outras palavras, se uma transação contém o(s) antecedente(s), a regra prevê que ela também conterá o(s) consequente(s) com uma certa probabilidade.
+Supondo que o antecedente seja leite o consequente seja pão.<br>
+<br>
+[<img src="../Imagens/Regra_de_Associação/leite.implica.em.pao.png" width="50%" >](../Imagens/Regra_de_Associação/leite.implica.em.pao.png)
+<br>
+
 
