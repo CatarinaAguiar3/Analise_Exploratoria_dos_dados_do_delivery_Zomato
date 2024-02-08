@@ -236,12 +236,16 @@ As cidades de Bangalore e Ahmedabad possuem o custo por refeição mais caro. El
 
 ### **21. Quais as cidades com o custo médio de refeição por pessoa mais barato?** 
 As cidades do nordeste são as que tem o custo por refeição mais barato. Seguidas de algumas cidades ao sul.
+<br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.21_Grafico.png" width="80%" >
+<br><br>
 
 O mapa a seguir foi feito no Power Bi
 <br>
 <center>
-<img src= "../Imagens/Analise_Descritiva_Geral/Q.21/Q.21_mapa_cidades_com_custo_medio_de_refeicoes_por_pessoa_maiores_barato.png">
+<img src= "https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.21_mapa_cidades_com_custo_medio_de_refeicoes_por_pessoa_maiores_barato.png" width="70%" >
 </center>
+<br><br>
 
 ### **22. Cidades com os maiores valores totais por pedido (sales_amount)**
 Ahmedabad, Agra, Adoni, Abohar, Allahabad, Alligarh, Agartala e Alappuzha são as cidades que possuem maiores valores totais por pedido.
