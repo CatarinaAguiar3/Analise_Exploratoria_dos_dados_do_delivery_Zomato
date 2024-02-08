@@ -630,7 +630,7 @@ Isso mostra que **<mark>há uma alta probabilidade de os alimentos das regras se
 Além disso, também é possível concluir que **<mark>as chances de os alimentos da regra serem comprados juntos é maior que de serem comprados separados.</mark>**
 <br><br>
 
-#### **Dal Fry e Jeera Rice**
+### **Dal Fry e Jeera Rice**
 Dal Fry é um prato popular indiano feito com lentilhas, cebola, tomate, especiarias e ervas.
 <br>
  Jeera Rice é um prato indiano composto por arroz e sementes de cominho. É um prato muito popular no subcontinente indiano e mais comumente usado como prato de arroz todos os dias.
@@ -640,3 +640,91 @@ Dal Fry é um prato popular indiano feito com lentilhas, cebola, tomate, especia
 <br>
 Na linha 119, os antecendentes e consequentes desta regra mudam. Portanto, pode-se concluir que há uma associação na compra de Dal Fry e de Jeera Rice.
 <img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Regra_de_Associa%C3%A7%C3%A3o/Tabela_Interpreta%C3%A7%C3%A3o_Regra_de_Associa%C3%A7%C3%A3o.png" width="75%">
+<br><br>
+Nesta base de dados, a proporção de Dal fry é de 17%, enquanto a proporção de Jerra Rice é de 25%. 
+<br><br> 
+O suporte da linha 118 e da linha 119 são de 0.13, ou seja, 13% das transações desta base de dados possuem Dal Fry e Jeera Rice.
+<br><br>
+Confidence das linhas 118 e 119 são diferentes. Esta métrica é, respectivamente, igual a 0.8 e 0.54. Portanto:
+<ul>
+  <li><b>Regra de Associação da linha 118:</b> Dada uma transação que há Dal Fry, há 80% de chance desta transação também conter Jeera Rice.
+  </li>
+  <li><b>Regra de Associação da linha 119:</b> Dada uma transação que há Jeera Rice, há 54% de chance desta transação também conter Dal Fry.
+  </li>  
+</ul>
+<br><br>
+[<img src="../Imagens/Regra_de_Associação/insight_reg_ass1.png" width="100%">](../Imagens/Regra_de_Associação/insight_reg_ass1.png)
+<br><br>
+O **lift** das duas regras é de 3,13 Isso significa que as chances de encontrar Dal Fry e Jeera Rice juntos é 3,13 vezes maior do que encontrar cada um individualmente. Pode-se concluir estes dois itens são altamente dependentes um do outro, logo costumam ser comprados juntos.
+
+<br>
+Em suma, clientes que compram Dal Fry também compram Jeera Rice. Além disso, este tipo de análise pode ser feita da mesma forma para os outros itens.
+
+###  **Cliente 59455**
+A seguir será feita a análise das regras de associação para a cliente com **user_id 59455**. Este id foi escolhido de forma aleatória. 
+<br><br>
+O nome desta cliente é Joshua Jimenez, ela tem 27 anos e é pós graduada. Além disso, possui uma família com 5 membros, está empregada e tem uma renda mensal entre 25.001 e 50.000. Provavelmente, ela mora no distrito de Navrangpura, na cidade de Ahmedabad.
+<br><br>
+Entre os itens comprados por ela estão **Dal Fry** e **Jeera Rice**. Com base nisso, algumas recomendações para futuras compras são:
+<br>
+<div with=100%>
+  <div style="width:50%; float:left;">
+  <p style="text-align: center;">
+      <b>Recomendações para quem compra <br><mark>Dal Fry (Apriori)</mark></b>
+    </p>
+  <ul style="list-style:none;"> 
+    <li>1. Butter Naan</li>
+    <li>Chana Masala</li>
+    <li>Chicken Fried Rice</li>
+    <li>Dal Makhani</li>
+    <li>Egg Fried Rice</li>
+    <li>Veg Fried Rice</li>
+  </ul>
+  </div> 
+  <div style="width:50%; float:left">
+    <p style="text-align: center;">
+      <b>Recomendações para quem compra <br><mark>Jeera Rice (Apriori)</mark></b>
+    </p>
+    <ul style="list-style:none;"> 
+      <li>1. French Fries</li>
+      <li>Plain Rice</li>
+      <li>Shahi Paneer</li>
+      <li>Tandoori Roti</li>
+      <li>Tomato Soup</li>
+      <li>Veg Pulao</li>
+    </ul>
+    </div>
+</div>
+<br>
+
+<div style="width:100%;">
+  <div style="width:50%; float:left;"> 
+  <p style="text-align: center;">
+    <b>Recomendações para quem compra <br><mark>Dal Fry (FP-Growth)</mark></b>
+  </p>
+  <ul style="list-style:none;"> 
+    <li>7. Garlic Naan</li>
+    <li>Gobi Manchurian</li>
+    <li>Egg Curry</li>
+    <li>Green Salad</li>
+    <li>Veg Noodles</li>
+    <li>Mushroom Chilli</li>
+  </ul>
+  </div>
+
+  <div style="width:50%; float:left;"> 
+  <p style="text-align: center;">
+    <b>Recomendações para quem compra <br><mark>Jeera Rice  (FP-Growth)</mark></b>
+  </p>
+  <ul style="list-style:none;"> 
+    <li>7. Chicken Tikka Masala</li>
+    <li>Ghee Rice</li>
+    <li>Kadai Paneer</li>
+    <li>Dal Tadka</li>
+    <li>Cheese Sandwich</li>
+    <li>Veg Schezwan Fried Rice</li>
+  </ul>  
+  </div>
+</div>
+
+
