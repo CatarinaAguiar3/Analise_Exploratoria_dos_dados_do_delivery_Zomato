@@ -41,25 +41,25 @@ Na <b> segunda parte será feita a Regra de associação</b> usando dois algorit
 ### **1. Resumo Tamanho da Família** 
 O mínimo é 1 e o máximo é 6. A média é 3,2 e o valor 3 é o que mais aparece. 
 <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.1_Tabela.png" width="50%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.1_Tabela.png" width="80%">
 <br>
 
 ### **2.Resumo Valor Total do Pedido (em USD)** 
 A média é 39.75 e a mediana é 15.
 <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.2_Tabela.png" width="25%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.2_Tabela.png" width="70%">
 <br>
 
 ### **3.Resumo Quantidade de itens encomendados**
 A média é 5.36 e a mediana é 2. E, 45% das pessoas compram 1 item.
 <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.3_Tabela.png" width="25%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.3_Tabela.png" width="70%">
 <br>
 
 ### **4.Resumo de city**
 Existem 58 valores para cidades. Porém 3 cidades estão separadas em bairros. Então o número de cidades em absoluto é um pouco menor, 44. 
 <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.4_Tabela.png" width="40%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.4_Tabela.png" width="80%">
 <br>
 
 ### **5.Resumo Classificação média do restaurante**
@@ -68,43 +68,43 @@ As avaliações vão de 0 à 5, sendo 0 a pontuação de restaurantes que não f
 Após isso, o valor mínimo de avalição é 1.3 e o máximo é 5. A média é 3.8 e a mediana é 3.9.
 <br> 
 A proporção de notas está bem distribuída. Sendo 4 a nota com maior frequência.
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.5_Tabela.png" width="50%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.5_Tabela.png" width="90%">
 <br>
 
 ### **6.Resumo Custo médio por pessoa para uma refeição no restaurante**
 A média é de 3.7 , a mediana é de 3.6 e o máximo é de 21.6. Estes valores são mais baixos que os preços de cada item. Além disso, 22% dos restaurantes tem o custo médio por pessoa de 2.4 Dóllares.
 <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.6_Tabela.png" width="50%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.6_Tabela.png" width= "90%">
 <br>
 
 ### **7.Resumo Tipo de cozinha oferecida pelo restaurante** 
 Existem 603 tipos de restaurante, porém alguns estão combinados. Se fosse retirado o nome depois da vírgula, quantidade de tipos de restaurante cairia para 70. 
 <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.7_Tabela.png" width="70%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.7_Tabela.png" width="100%">
 <br>
 
 ### **8.Resumo ocupação do usuário**
 Existem apenas 4 tipos de ocupação estudante (52%), empregado (31%), autônomo (13%) e dona de casa (2%).
 <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.8_Tabela.png" width="40%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.8_Tabela.png" width="80%">
 <br>
 
 ### **9.Resumo Renda mensal do usuário**
 A maior parte dos clientes não possuem renda (47%), provavelmente, são os mesmos clientes que estudam.
 <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.9_Tabela.png" width="40%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.9_Tabela.png" width="80%">
 <br>
 
 ### **10.Resumo Escolaridade do usuário** 
 A maior parte dos clientes tem graduação (46 %) ou Pós graduação (43%).
 <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.10_Tabela.png " width="40%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.10_Tabela.png " width="80%">
 <br>
 
 ### **11.Resumo Idade**
 Os clientes tem uma faixa etária de 18 e 33 anos. Sendo que na média, eles tem 24 anos. 
 <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.11_Tabela.png" width="20%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.11_Tabela.png" width="80%">
 <br>
 
 ## Análise Preço e Quantidade
@@ -121,19 +121,19 @@ Também será analisada o número de pedidos.Porém, não existe uma coluna com 
 ### **12.Qual a porcentagem de alimentos vegetarianos e não vegetarinos?**
 66.47 % dos alimentos são vegetarianos e 33.53% são não vegetarianos
 <br> <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.12_Grafico.png" width="50%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.12_Grafico.png" width="100%">
 <br>
 
 ###  **13.Qual a Distribuição de preço de alimentos vegetarinos?**
 A média de preço é de 2.3 Dólares
 <br> 
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.13_Tabela.png" width="20%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.13_Tabela.png" width="80%">
 <br>
 
 ### **14.Qual a Distribuição de preço de alimentos NÃO vegetarinos?**
 A média de preço é de 3.09 Dólares
 <br> 
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.14_Tabela.png " width="20%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.14_Tabela.png " width="80%">
 <br>
 
 ### **15. Ranking das 10 categorias de restaurantes com maior nº de pedidos** 
@@ -151,7 +151,7 @@ As 5ª, 7ª, 8ª, 9ª e 10ª posições são ocupadas por comidas tipicamente oc
 OBS: Ramadã é um feriado Islâmico em que os mulçumanos realizam um jejum que se estende do nascer ao pôr do Sol. À noite, eles realizam uma refeição e um dos pratos típicos é o Biryani.
 </div>
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.15_Grafico.png" width="80%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.15_Grafico.png" width="100%">
 <br><br>
 
 ### **16. Ranking das 10 categorias de restaurante com os maiores preços** 
@@ -169,7 +169,7 @@ Algo que elas têm em comum é possuírem itens não vegetarianos. E, conforme v
 Além disso, com exceção de Naga, as outras cozinhas têm opções de frutos do mar. Talvez, essas categorias sejam caras pois a pesca na Índia seja difícil ou cara. 
 </div>
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.16_Grafico.png" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.16_Grafico.png" width="100%" >
 <br><br>
 
 
@@ -185,7 +185,7 @@ Os maiores custos ficam nas cidades do sul e sudoeste. Bangalore é a cidade com
 As cidades Allahabad, Amritsar e Aurangabad ocupam os 3º, 4º e 5º lugar respectivamente e tem custos médios muito parecidos. 
 </div>
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.17_Grafico.png" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.17_Grafico.png" width="100%" >
 <br><br>
 
 **Mapa**
@@ -207,12 +207,12 @@ Bangalore e Ahmedabad são as cidades com mais pedidos. Elas se localizam respec
 As cidades Adityapur, Amritsar, Allahabad e Aurangabad ocupam os 3º, 4º, 5º e 6º lugar.
 </div>
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.18_Grafico.png" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.18_Grafico.png" width="100%" >
 <br><br>
 Foi feito no Power Bi um mapa das cidades com mais vendas
 <center>
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.18_mapa_cidades_com_mais_n%C2%BA_pedidos.png" width="70%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.18_mapa_cidades_com_mais_n%C2%BA_pedidos.png" width="100%" >
 <br><br>
 
 </center>
@@ -223,28 +223,28 @@ Foi feito no Power Bi um mapa das cidades com mais vendas
 As categorias com o menor custo médio por refeição são Italian-American ,  Rajasthani , Juices e Café.
 Rajasthani é uma culinária do noroeste da Índia.
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.19_Grafico.png" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.19_Grafico.png" width="100%" >
 <br><br>
 
 ### **20. Quais as cidades com o custo médio de refeição por pessoa mais caro?** 
 As cidades de Bangalore e Ahmedabad possuem o custo por refeição mais caro. Elas também são as cidades com os maiores números de pedidos.
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.20_Grafico.png" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.20_Grafico.png" width="100%" >
 <br><br>
 <center>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.20_card_cidades_custo_mais_caro.png" width="70%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.20_card_cidades_custo_mais_caro.png" width="100%">
 </center>
 
 ### **21. Quais as cidades com o custo médio de refeição por pessoa mais barato?** 
 As cidades do nordeste são as que tem o custo por refeição mais barato. Seguidas de algumas cidades ao sul.
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.21_Grafico.png" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.21_Grafico.png" width="100%" >
 <br><br>
 
 O mapa a seguir foi feito no Power Bi
 <br>
 <center>
-<img src= "https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.21_mapa_cidades_com_custo_medio_de_refeicoes_por_pessoa_maiores_barato.png" width="70%" >
+<img src= "https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.21_mapa_cidades_com_custo_medio_de_refeicoes_por_pessoa_maiores_barato.png" width="100%" >
 </center>
 <br><br>
 
@@ -256,15 +256,15 @@ As cidades Ahmedabad, Agra e Allahabad são grandes centros econômicos. Em Agra
 Já Adoni, Abohar, Alligarh e Agartala são centros regionais importantes em seus respectivos estados. <br>
 E, Alappuzha é um importante centro turístico. A cidade é conhecida pelos seus canais e backwaters.
 <br>
-Fontes: <a href="https://pt.wikipedia.org/wiki/Economia_da_%C3%8Dndia">Wikipedia</a> e <a href="https://www.investindia.gov.in/pt-br/great-places-for-manufacturing-in-india">Investindia.gov.in</a>]
+Fontes: <a href="https://pt.wikipedia.org/wiki/Economia_da_%C3%8Dndia">Wikipedia</a> e <a href="https://www.investindia.gov.in/pt-br/great-places-for-manufacturing-in-india">Investindia.gov.in</a>
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.22_Grafico.png" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.22_Grafico.png" width="100%" >
 <br><br>
 
 O mapa a seguir foi feito no Power Bi
 <br>
 <center>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.22_mapa_cidades_com_maiores_valores_totais_por_pedido_(sales_amount)1.png" width="70%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.22_mapa_cidades_com_maiores_valores_totais_por_pedido_(sales_amount)1.png" width="100%" >
 </center>
 <br><br>
 
@@ -281,7 +281,7 @@ Hyderabadi é uma mistura da culinária Mughlai e do norte da Índia, com influ�
 <br><br>
 Bengali é um estilo culinário de Bengala, que compreende Bangladesh e os estados indianos de Bengala Ocidental e Tripura. Ela tem como ingredientes arroz, lentilhas, peixe, carne bovina e de cabra.   
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.23_Grafico.png" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.23_Grafico.png" width="100%" >
 <br><br>
 
 ### **24. Cidades com maiores nº de pedidos: Valores totais por pedido (sales_amount) vs nº de pedidos**
@@ -298,11 +298,11 @@ A cidade de Bangalore também apresenta dois resultados contrastantes:
 <li>Os distritos de Koramangala e HSR, tem um alto número de pedidos, porém com baixo valor total. Eles são distritos pequenos, porém muito povoados.</li>
 </ul> 
 
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.24_card_city3.png" width="50%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.24_card_city3.png" width="80%">
 <br>
 Fonte:<a href="https://geoiq.io/places/Koramangala/6P0l0H8Jya">geoIQ</a>
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.24_Grafico.png" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.24_Grafico.png" width="100%" >
 <br><br>
 
 ## Análise Índia
@@ -349,7 +349,7 @@ Para verificar se esta lógica está correta, será testada a correlação da po
 <br><br>
 A seguir, a Tabela com as informações geoeconômicas da Índia retiradas do site <a href="https://www.census2011.co.in/ ">Census 2011 Índia (2011)</a>.Vale Ressaltar que em algumas cidades não foi encontrada o número de moradores em favela.
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Tabela_An%C3%A1lise_%C3%8Dndia_infoma%C3%A7%C3%B5es_geoecon%C3%B4micas.png" width="90%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Tabela_An%C3%A1lise_%C3%8Dndia_infoma%C3%A7%C3%B5es_geoecon%C3%B4micas.png" width="95%" >
 <br><br>
 
 ###  **25. Relação entre o preço por item e porcentagem de residentes que moram em favela** 
@@ -359,7 +359,7 @@ Isso indica que existe associação entre o preço por item e a porcentagem de r
 <br><br>
 Portanto, cidades com altos preços por item, também possuem alto número de favelas. Este resultado pode indicar que as cidades indianas tem grande desigualdade econômica e também explica o porque de 45% das pessoas desta base de dados comprarem apenas 1 item (visto na pergunta 3)
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.25_Correlacoes.png" width="70%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.25_Correlacoes.png" width="80%" >
 <br><br>
 
 ### **26. Relação entre custo médio da refeição e porcentagem de residentes que moram em favela** 
@@ -367,9 +367,9 @@ Em ambas as correlações, o p-valor foi muito baixo e a correlação fraca. A C
 <br>
 Portanto, há envidência <mark>**de uma relação entre o custo médio por refeição por cidade e a porcentagem de moradores de favela por cidade. Porém, a forma desta relação não é clara.**</mark>
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.26_Correlacoes.png" width="70%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.26_Correlacoes.png" width="80%" >
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.26_Grafico.png" width="90%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.26_Grafico.png" width="100%" >
 <br><br>
 
 ### **27. Relação entre a porcentagem de residentes que moram em favela e a média do valor total de pedidos (sales_amount_usd)** 
@@ -379,9 +379,9 @@ E, ambos os coeficientes indicam que há uma relação negativa entre valor tota
 De modo geral, pode-se dizer que <mark>**há associação negativa entre o valor total do pedido e nº de moradores de favela.**</mark>. De modo que quando uma variável aumenta, a outra diminui.De modo que quando uma variável aumenta, a outra diminui. <br><br>
 Este resultado faz sentido, pois um grande número de moradores em favela pode ser um indicativo de pobreza, logo, as pessoas não tem muito dinheiro disponível para gastar com lanche.
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.27_Correlacoes.png" width="70%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.27_Correlacoes.png" width="80%" >
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.27_Grafico.png" width="90%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.27_Grafico.png" width="100%" >
 <br><br>
 
 ###  **28. Quais as 15 cidades com os maiores pedidos por habitante?** 
@@ -390,7 +390,7 @@ Para responder esta pergunta será feita a contagem do número de pedidos por ci
 Então, será feito o cálculo a seguir:
 <br><br>
 <center>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.28_numero_de_pedidos_por_habitante1.png" width="60%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.28_numero_de_pedidos_por_habitante1.png" width="80%">
 </center>
 <br><br>
 As cidades com os maiores pedidos por habitante são: Balrampur, Agartala, Adityapur, Bagdogra, Baddi e Bahadurgarh.
@@ -405,7 +405,7 @@ Estas cidades tem algo em comum: são de tamanho médio e com rápido cresciment
     <li>A cidade Bahadurgarh tem várias empresas de grande porte, como a Suzuki. Sua população é de 200.000 habitantes.</li>
 </ul>
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.28_Grafico.png" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.28_Grafico.png" width="97%" >
 <br><br>
 
 ###  **29. Qual a correlação entre o número de pedidos por cidade e o tamanho da população?**
@@ -413,7 +413,7 @@ Existe uma correlação positiva e <b>forte</b> entre tamanho da população e n
 <br><br>
 Em geral,  <mark>**há uma associação entre número de pedidos e tamanho da população.**</mark> 
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.29_Correlacao.png" width="50%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.29_Correlacao.png" width="80%" >
 <br><br>
 
 ### **30. Distribuição da Religião Predonominante nas cidades da base de dados. E o tipo de comida com mais pedidos em cada cidade.** 
@@ -423,7 +423,7 @@ O mapa a seguir foi feito no Power Bi usando Tabela <code>nome_city5</code> cria
 <br>
 Além disso, <mark>**cada religião tem suas datas festivas que podem influenciar as vendas neste período.**</mark>
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.31_Painel%20(3500%20x%204000%20px).png" width="97%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.31_Painel%20(3500%20x%204000%20px).png" width="100%">
 
 ###  **31. Qual a Relação entre Religião Predominante e Tipo de cozinha com maior número de pedidos?** 
 **Processo:**
@@ -442,7 +442,7 @@ Nesta base de dados, as cidades cuja religião predominante é:
 Pode-se concluir que a religião predominante de uma cidade influência nos gostos culinários dos clientes daquela localização. 
 #### **Painel**
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.30_mapa_distrib_religiao_por_cidade2.png" width="85%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.30_mapa_distrib_religiao_por_cidade2.png" width="100%" >
 <br><br>
 
 ## **Classificação média dos restaurantes**
@@ -453,19 +453,19 @@ Já a correlação de Pearson foi de 0.21 e o p-valor também foi muito baixo. O
 <br><br>
 Pode-se concluir que <b>há associação entre as variáveis</b>. De modo que,  quando a classificação média do restaurante, o número de avaliações também aumenta. Entretanto, esta associação não implica em causalidade, é possível que outros fatores influenciem esta relação.
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.32_Correlacoes.png" width="70%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.32_Correlacoes.png" width="80%" >
 <br><br>
 
 ### **33. Existe correlação entre a classificação do restaurante e o custo médio por pessoa?** 
 Em ambas as correlações o resultado foi positivo e o p-valor foi muito baixo. Indicando que existe associação entre associação entre as variáveis. De modo, que um aumento da classificação do restaurante está associado a um aumento no custo médio. 
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.33_Correlacoes.png" width="70%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.33_Correlacoes.png" width="80%" >
 <br><br>
 
 ### **34. Qual a correlação entre o preço médio da refeição e a classificação do restaurante?** 
 As correlações deram um valor positivo e baixo. E, os p-valor foram significativos. Portanto, existe uma associação positiva (mas fraca) entre o preço médio da refeição e a classificação do restaurante.
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.34_Correlacoes.png" width="70%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.34_Correlacoes.png" width="80%" >
 <br><br>
 
 ###  **35. Quais os tipos de restaurantes com a pontuação mais alta?**
@@ -481,23 +481,23 @@ Não há uma relação clara entre as duas variáveis. Por exemplo, Japonese é 
 <br>
 <mark>**Pode-se afirmar que os tipos de restaurantes com maiores preços têm boas classificações (acima de 3.8)**</mark> 
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.36_tabela_preco_e_classificacao1.png" width="70%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.36_tabela_preco_e_classificacao1.png" width="90%">
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.36_Grafico.png" width="90%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.36_Grafico.png" width="100%" >
 <br><br>
 
 ## Análise do Perfil dos clientes
 ### **37. Qual o Tamanho médio  das Famílias ?** 
 O tamanho médio das famílias é de 3 à 4 pessoas. 
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.37_card_tamanho_familia.png" width="50%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.37_card_tamanho_familia.png" width="55%" >
 <br><br>
 
 
 ###  **38. Qual a porcentagem de mulheres e homens ?** 
 Há 43% de clientes mulheres e 56% de clientes homens
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.38_Grafico.png" width="70%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.38_Grafico.png" width="80%" >
 <br><br>
 
 ### **39. Valor total do pedido (sales_amount_usd) x  Tamanho das Famílias** 
@@ -508,9 +508,9 @@ Foi utilizado a média e a mediana do valor total do pedido. Pois estes dois val
 </ul>
 <img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.39_Tabela.png" width="50%" >
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.39_Grafico_Media.png" width="70%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.39_Grafico_Media.png" width="95%" >
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.39_Grafico_Mediana.png" width="70%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.39_Grafico_Mediana.png" width="95%" >
 <br><br>
 
 
@@ -522,7 +522,7 @@ A média tem valores mais altos do que a mediana. E, a diferença entre as duas 
   <li><b>Usando a Média:</b>os valores são bem próximos. As famílias com 2 membros compram itens mais caros. Em seguida, estão as famílias com 1, 5, 4, 3 e 6 membros.</li> 
   <li><b>Usando a Mediana:</b> Os valores são bem parecidos. Famílias de tamanho 1, 2 e 4 compram a mesma quantidade de itens. Da mesma forma, famílias com 3,5 e 6 pessoas também compram a mesma quantidade de itens.</li>
 </ul>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.40_Tabela.png" width="70%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.40_Tabela.png" width="90%" >
 <br><br>
 
 ### **41. Quantidade de itens comprados (sales_qty) x  Tamanho das Famílias** 
@@ -533,7 +533,7 @@ A média tem valores mais altos do que a mediana. E, a diferença entre as duas 
   <li><b>Usando a Média:</b> famílias de tamanho 4 compram a maior quantidade de itens. Seguidas pelas famílias de tamanho 3,5,6 e 1, respectivamente.</li> 
   <li><b>Usando a Mediana:</b> os valores são iguais, todas compram 2 itens.</li>
 </ul>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.41_Tabela.png" width="70%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.41_Tabela.png" width="90%" >
 <br><br>
 
 
@@ -575,9 +575,9 @@ Levando em considerando os resultados usando a média e a mediana. Pode-se concl
   <li>Pessoas que ganham entre 25.001 e 50.000 também gastam por pedido muito na Zomato.</li>
 </ul>
 <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.42_tabela_valor_do_pedido_e_renda_mensal2.png" width="70%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.42_tabela_valor_do_pedido_e_renda_mensal2.png" width="100%" >
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.42_grafico.png" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.42_grafico.png" width="100%" >
 <br><br>
 
 ## **Análise Dias na Semana**
@@ -601,7 +601,7 @@ Algumas teorias podem explicar isso:
 </ul>
 <br>
 <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.43_Grafico.png" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.43_Grafico.png" width="90%" >
 <br><br>
 
 ### **44. Vendas por Dia da Semana para Cada Ano** 
@@ -611,7 +611,7 @@ Buscou-se analisar vendas em cada dia semana separadas pelos anos.
 <br><br>
 <img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.44_Tabela.png" width="50%" >
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.44_Grafico.png" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.44_Grafico.png" width="90%" >
 <br><br>
 
 # Regra de associação 
@@ -673,12 +673,12 @@ Dal Fry é um prato popular indiano feito com lentilhas, cebola, tomate, especia
 <br>
  Jeera Rice é um prato indiano composto por arroz e sementes de cominho. É um prato muito popular no subcontinente indiano e mais comumente usado como prato de arroz todos os dias.
  <br>
- <img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Regra_de_Associa%C3%A7%C3%A3o/card_Dal_e_Jeera.png" width="70%">
+ <img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Regra_de_Associa%C3%A7%C3%A3o/card_Dal_e_Jeera.png" width="90%">
  <br>
  Na linha 118  Dal Fry foi o antecendente e o consequente foi Jeera Rice. Ou seja, a compra de Dal Fry implica na compra de Jeera Rice. 
 <br>
 Na linha 119, os antecendentes e consequentes desta regra mudam. Portanto, pode-se concluir que há uma associação na compra de Dal Fry e de Jeera Rice.
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Regra_de_Associa%C3%A7%C3%A3o/Tabela_Interpreta%C3%A7%C3%A3o_Regra_de_Associa%C3%A7%C3%A3o.png" width="75%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Regra_de_Associa%C3%A7%C3%A3o/Tabela_Interpreta%C3%A7%C3%A3o_Regra_de_Associa%C3%A7%C3%A3o.png" width="100%">
 <br><br>
 Nesta base de dados, a proporção de Dal fry é de 17%, enquanto a proporção de Jerra Rice é de 25%. 
 <br><br> 
@@ -692,7 +692,7 @@ Confidence das linhas 118 e 119 são diferentes. Esta métrica é, respectivamen
   </li>  
 </ul>
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Regra_de_Associa%C3%A7%C3%A3o/insight_reg_ass1.png" width="95%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Regra_de_Associa%C3%A7%C3%A3o/insight_reg_ass1.png" width="100%">
 <br><br>
 O **lift** das duas regras é de 3,13 Isso significa que as chances de encontrar Dal Fry e Jeera Rice juntos é 3,13 vezes maior do que encontrar cada um individualmente. Pode-se concluir estes dois itens são altamente dependentes um do outro, logo costumam ser comprados juntos.
 <br>
