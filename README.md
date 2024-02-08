@@ -488,9 +488,16 @@ Não há uma relação clara entre as duas variáveis. Por exemplo, Japonese é 
 ## Análise do Perfil dos clientes
 ### **37. Qual o Tamanho médio  das Famílias ?** 
 O tamanho médio das famílias é de 3 à 4 pessoas. 
+<br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.37_card_tamanho_familia.png" width="45%" >
+<br><br>
+
 
 ###  **38. Qual a porcentagem de mulheres e homens ?** 
 Há 43% de clientes mulheres e 56% de clientes homens
+<br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.38_Grafico.png" width="60%" >
+<br><br>
 
 ### **39. Valor total do pedido (sales_amount_usd) x  Tamanho das Famílias** 
 Foi utilizado a média e a mediana do valor total do pedido. Pois estes dois valores são bem diferentes.
@@ -498,6 +505,13 @@ Foi utilizado a média e a mediana do valor total do pedido. Pois estes dois val
    <li><b>Usando a Média:</b>As famílias tem de 1 à 6 membros. E, as famílias com 5 pessoas são as que mais gastam ; seguidas das famílias com 1 e 6 pessoas. As famílias com 2 e 4 membros têm os menores gastos.</li>
    <li><b>Usando a Mediana:</b> As famílias com 6 membros tiveram o maior gasto, seguido pelas famílias de 5,4 e 3 membros.</li>
 </ul>
+<br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.39_Tabela.png" width="35%" >
+<br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.39_Grafico_Media.png" width="60%" >
+<br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.39_Grafico_Mediana.png" width="60%" >
+<br><br>
 
 
 ### **40. Preço do item comprado (price_usd) x  Tamanho das Famílias** 
@@ -508,6 +522,9 @@ A média tem valores mais altos do que a mediana. E, a diferença entre as duas 
   <li><b>Usando a Média:</b>os valores são bem próximos. As famílias com 2 membros compram itens mais caros. Em seguida, estão as famílias com 1, 5, 4, 3 e 6 membros.</li> 
   <li><b>Usando a Mediana:</b> Os valores são bem parecidos. Famílias de tamanho 1, 2 e 4 compram a mesma quantidade de itens. Da mesma forma, famílias com 3,5 e 6 pessoas também compram a mesma quantidade de itens.</li>
 </ul>
+<br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.40_Tabela.png" width="50%" >
+<br><br>
 
 ### **41. Quantidade de itens comprados (sales_qty) x  Tamanho das Famílias** 
 Será analisada a relação entre a quantidade de itens comprados e o tamanho da família. Para isso será utilizado a média e a mediana de ‘sales_qty’.
@@ -517,7 +534,9 @@ A média tem valores mais altos do que a mediana. E, a diferença entre as duas 
   <li><b>Usando a Média:</b> famílias de tamanho 4 compram a maior quantidade de itens. Seguidas pelas famílias de tamanho 3,5,6 e 1, respectivamente.</li> 
   <li><b>Usando a Mediana:</b> os valores são iguais, todas compram 2 itens.</li>
 </ul>
-
+<br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.41_Tabela.png" width="50%" >
+<br><br>
 
 
 ### **42. Valor total do pedido (sales_amount) X  renda mensal do usuário (Monthly Income)**
@@ -557,6 +576,11 @@ Levando em considerando os resultados usando a média e a mediana. Pode-se concl
   </li>
   <li>Pessoas que ganham entre 25.001 e 50.000 também gastam por pedido muito na Zomato.</li>
 </ul>
+<br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.42_tabela_valor_do_pedido_e_renda_mensal2.png" width="60%" >
+<br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.42_grafico.png" width="65%" >
+<br><br>
 
 ## **Análise Dias na Semana**
 ### **43. Geral: Número de Vendas por Dia da Semana** 
@@ -576,12 +600,21 @@ Algumas teorias podem explicar isso:
     Uma terceira teoria é que nos fins de semana, os indianos preferem comer fora. De acordo com um estudo feito por
     <a href="https://ieeexplore.ieee.org/abstract/document/7754477">Mohan et. al (2016)</a>, as famílias indianas tem mudado seus hábitos e passam os fins de semana em complexos comerciais, como shoppings. Devido a isso, as famílias têm feito as refeições dos fins de semana nas praças de alimentação ou em restaurantes próximos aos shoppings.
   </li>
-<ul>
+</ul>
+<br>
+<br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.43_Grafico.png" width="80%" >
+<br><br>
 
 ### **44. Vendas por Dia da Semana para Cada Ano** 
 Buscou-se analisar vendas em cada dia semana separadas pelos anos.
 <br>
 É possível observar que em 2018 e 2019 houve um aumento nas vendas. Porém em 2020 , as vendas diminuíram, provavelmente, isso aconteceu por causa da pandemia de Covid19. 
+<br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.44_Tabela.png" width="50%" >
+<br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.44_Grafico.png" width="80%" >
+<br><br>
 
 # Regra de associação 
 ## Introdução à Regras de Associação
@@ -592,11 +625,15 @@ Supondo que o antecedente seja leite o consequente seja pão.<br>
 <br>
 [<img src="../Imagens/Regra_de_Associação/leite.implica.em.pao.png" width="50%" >](../Imagens/Regra_de_Associação/leite.implica.em.pao.png)
 <br>
+<br><br>
+<img src="" width="80%" >
+<br><br>
 
 **Antecedent support:** Proporção de transações no seu conjunto de dados que contém o(s) antecedente(s). <br>
 [<img src="../Imagens/Regra_de_Associação/antecedent_support.png" width="70%">](../Imagens/Regra_de_Associação/antecedent_support.png) <br>
 Por exemplo, supondo que antecedent support é igual a 0.14. Significa que 14% das transações da base de dados possuem leite.
 <br><br>
+
 
 **Consequent support:** Proporção de transações no seu conjunto de dados que contém o(s) consequente(s).<br>
 [<img src='../Imagens/Regra_de_Associação/consequent_support1.png' width="70%"> ](../Imagens/Regra_de_Associação/consequent_support1.png)<br>
