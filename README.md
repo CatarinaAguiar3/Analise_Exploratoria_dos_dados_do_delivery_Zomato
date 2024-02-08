@@ -41,7 +41,7 @@ Na <b> segunda parte será feita a Regra de associação</b> usando dois algorit
 ### **1. Resumo Tamanho da Família** 
 O mínimo é 1 e o máximo é 6. A média é 3,2 e o valor 3 é o que mais aparece. 
 <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.1_Tabela.png" width="80%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.1_Tabela.png" width="90%">
 <br>
 
 ### **2.Resumo Valor Total do Pedido (em USD)** 
@@ -68,13 +68,13 @@ As avaliações vão de 0 à 5, sendo 0 a pontuação de restaurantes que não f
 Após isso, o valor mínimo de avalição é 1.3 e o máximo é 5. A média é 3.8 e a mediana é 3.9.
 <br> 
 A proporção de notas está bem distribuída. Sendo 4 a nota com maior frequência.
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.5_Tabela.png" width="90%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.5_Tabela.png" width="100%">
 <br>
 
 ### **6.Resumo Custo médio por pessoa para uma refeição no restaurante**
 A média é de 3.7 , a mediana é de 3.6 e o máximo é de 21.6. Estes valores são mais baixos que os preços de cada item. Além disso, 22% dos restaurantes tem o custo médio por pessoa de 2.4 Dóllares.
 <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.6_Tabela.png" width= "90%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.6_Tabela.png" width= "95%">
 <br>
 
 ### **7.Resumo Tipo de cozinha oferecida pelo restaurante** 
@@ -86,25 +86,25 @@ Existem 603 tipos de restaurante, porém alguns estão combinados. Se fosse reti
 ### **8.Resumo ocupação do usuário**
 Existem apenas 4 tipos de ocupação estudante (52%), empregado (31%), autônomo (13%) e dona de casa (2%).
 <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.8_Tabela.png" width="80%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.8_Tabela.png" width="75%">
 <br>
 
 ### **9.Resumo Renda mensal do usuário**
 A maior parte dos clientes não possuem renda (47%), provavelmente, são os mesmos clientes que estudam.
 <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.9_Tabela.png" width="80%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.9_Tabela.png" width="75%">
 <br>
 
 ### **10.Resumo Escolaridade do usuário** 
 A maior parte dos clientes tem graduação (46 %) ou Pós graduação (43%).
 <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.10_Tabela.png " width="80%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.10_Tabela.png " width="75%">
 <br>
 
 ### **11.Resumo Idade**
 Os clientes tem uma faixa etária de 18 e 33 anos. Sendo que na média, eles tem 24 anos. 
 <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.11_Tabela.png" width="80%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.11_Tabela.png" width="50%">
 <br>
 
 ## Análise Preço e Quantidade
@@ -127,13 +127,13 @@ Também será analisada o número de pedidos.Porém, não existe uma coluna com 
 ###  **13.Qual a Distribuição de preço de alimentos vegetarinos?**
 A média de preço é de 2.3 Dólares
 <br> 
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.13_Tabela.png" width="80%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.13_Tabela.png" width="50%">
 <br>
 
 ### **14.Qual a Distribuição de preço de alimentos NÃO vegetarinos?**
 A média de preço é de 3.09 Dólares
 <br> 
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.14_Tabela.png " width="80%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.14_Tabela.png " width="50%">
 <br>
 
 ### **15. Ranking das 10 categorias de restaurantes com maior nº de pedidos** 
