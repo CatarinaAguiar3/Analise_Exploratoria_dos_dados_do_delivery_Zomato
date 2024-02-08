@@ -357,7 +357,7 @@ Isso indica que existe associação entre o preço por item e a porcentagem de r
 <br><br>
 Portanto, cidades com altos preços por item, também possuem alto número de favelas. Este resultado pode indicar que as cidades indianas tem grande desigualdade econômica e também explica o porque de 45% das pessoas desta base de dados comprarem apenas 1 item (visto na pergunta 3)
 <br><br>
-<img src="" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.25_Correlacoes.png" width="50%" >
 <br><br>
 
 ### **26. Relação entre custo médio da refeição e porcentagem de residentes que moram em favela** 
@@ -365,7 +365,9 @@ Em ambas as correlações, o p-valor foi muito baixo e a correlação fraca. A C
 <br>
 Portanto, há envidência <mark>**de uma relação entre o custo médio por refeição por cidade e a porcentagem de moradores de favela por cidade. Porém, a forma desta relação não é clara.**</mark>
 <br><br>
-<img src="" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.26_Correlacoes.png" width="50%" >
+<br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.26_Grafico.png" width="80%" >
 <br><br>
 
 ### **27. Relação entre a porcentagem de residentes que moram em favela e a média do valor total de pedidos (sales_amount_usd)** 
@@ -375,7 +377,9 @@ E, ambos os coeficientes indicam que há uma relação negativa entre valor tota
 De modo geral, pode-se dizer que <mark>**há associação negativa entre o valor total do pedido e nº de moradores de favela.**</mark>. De modo que quando uma variável aumenta, a outra diminui.De modo que quando uma variável aumenta, a outra diminui. <br><br>
 Este resultado faz sentido, pois um grande número de moradores em favela pode ser um indicativo de pobreza, logo, as pessoas não tem muito dinheiro disponível para gastar com lanche.
 <br><br>
-<img src="" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.27_Correlacoes.png" width="50%" >
+<br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.27_Grafico.png" width="80%" >
 <br><br>
 
 ###  **28. Quais as 15 cidades com os maiores pedidos por habitante?** 
@@ -384,7 +388,7 @@ Para responder esta pergunta será feita a contagem do número de pedidos por ci
 Então, será feito o cálculo a seguir:
 <br><br>
 <center>
-<img src="../Imagens/Analise_Descritiva_Geral/Q.28/Q.28_numero_de_pedidos_por_habitante1.png" width="80%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.28_numero_de_pedidos_por_habitante1.png" width="60%">
 </center>
 <br><br>
 As cidades com os maiores pedidos por habitante são: Balrampur, Agartala, Adityapur, Bagdogra, Baddi e Bahadurgarh.
@@ -399,7 +403,7 @@ Estas cidades tem algo em comum: são de tamanho médio e com rápido cresciment
     <li>A cidade Bahadurgarh tem várias empresas de grande porte, como a Suzuki. Sua população é de 200.000 habitantes.</li>
 </ul>
 <br><br>
-<img src="" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.28_Grafico.png" width="80%" >
 <br><br>
 
 ###  **29. Qual a correlação entre o número de pedidos por cidade e o tamanho da população?**
