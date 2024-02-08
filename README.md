@@ -183,13 +183,16 @@ Os maiores custos ficam nas cidades do sul e sudoeste. Bangalore é a cidade com
 <br><br> 
 As cidades Allahabad, Amritsar e Aurangabad ocupam os 3º, 4º e 5º lugar respectivamente e tem custos médios muito parecidos. 
 </div>
+<br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.17_Grafico.png" width="80%" >
+<br><br>
 
 **Mapa**
 <br>
 O mapa a seguir foi feito no Power Bi
 <br>
 <center>
-<img src="../Imagens/Analise_Descritiva_Geral/Q.17_mapa_custo_medio_por_pessoa_nos_restaurantes_das_cidades_com_mais_nº_pedidos.png">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.17_mapa_custo_medio_por_pessoa_nos_restaurantes_das_cidades_com_mais_n%C2%BA_pedidos.png" with="70%">
 </center>
 
 #### **18. Quais as cidades com os mais pedidos?**
@@ -201,13 +204,16 @@ A divisão por distritos nestas duas cidades talvez possa ser explicada pois ela
 Bangalore e Ahmedabad são as cidades com mais pedidos. Elas se localizam respectivamente, no sul e sudeste da Índia. 
 <br>
 As cidades Adityapur, Amritsar, Allahabad e Aurangabad ocupam os 3º, 4º, 5º e 6º lugar.
-
 </div>
-
-<br>
+<br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.18_Grafico.png" width="80%" >
+<br><br>
 Foi feito no Power Bi um mapa das cidades com mais vendas
 <center>
-<img src='../Imagens/Analise_Descritiva_Geral/Q.18_mapa_cidades_com_mais_nº_pedidos.png'>
+<br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.18_mapa_cidades_com_mais_n%C2%BA_pedidos.png" width="70%" >
+<br><br>
+
 </center>
 
 #### **19. Ranking das 10 categorias de restaurante com menores preços (custo médio por refeição)** 
