@@ -17,18 +17,22 @@
 
   
 # Introdução
+# Introdução
 <div style="text-align: justify;">
 A análise descritiva será divida em duas partes: <b>Análise descritiva geral</b> e <b>Regra de Associação</b>.
 <br><br>
 A <b>Análise descritiva geral</b> será dividida em 6 tópicos: <b>Resumo Estatístico das variáveis, Análise Preço e Quantidade, Análise Índia, Rating, Análise do Perfil dos clientes e Análise dos dias da semana.</b>
+<ul>
+<li><b>Resumo Estatístico das variáveis:</b>calculo de medidas estatísticas como a média. O objetivo é entender a distribuição dos dados. Além disso, também será calculado a frequência dos valores únicos.</li>
+<li><b>Análise Preço e Quantidade:</b>o objetivo é investigar as colunas relacionadas a preço e quantidade, por exemplo, preço do item e quantidade vendida.</li>
+<li><b>Análise Índia:</b>analisar como dados geoeconômicos da Índia podem ser relacionar com as variáveis da tabela.</li>
+<li><b>Rating:</b>descobrir mais sobre como a classificação média dos restaurantes e o número de avaliações se relacionam com as outras colunas da tabela.</li>
+<li><b>Análise do Perfil dos clientes:</b>entender como informações do cliente pode estar associada ao seu comportamento de compra.</li>
+<li><b>Análise dos dias da semana:</b>separar as vendas por dia da semana.</li>
+</ul>
+
 <br><br>
-Primeiro, será feito o resumo estatístico das variáveis mais importantes para a modelagem. Também será feito uma análise descritiva focada nas variáveis de preço (em dólar americano) e quantidade.
-<br><br>
-Para conhecer melhor a Índia, será analisado dados sobre população, religião predominante nas cidades presentes na base de dados e número de moradores em favelas. Também será verificado a relação desses dados com as variáveis presentes no dataset da Zomato.
-<br><br>
-Os tópicos seguintes são para descobrir mais sobre a classificação média dos restaurantes , perfil dos clientes. E por último, a análise temporal das vendas. 
-<br><br>
-Na segunda parte será feita a Regra de associação usando dois algoritmos: Apriori e FP-Growth.Em seguida, será feita a análise de duas regras geradas pelo Apriori , além da associação de todas as regras geradas ao user_id. 
+Na <b> segunda parte será feita a Regra de associação</b> usando dois algoritmos: Apriori e FP-Growth.Em seguida, será feita a análise das regras geradas, além da <b>associação de todas as regras geradas ao user_id.</b>
 </div>
 
 ## Análise Descritiva Geral
@@ -36,40 +40,61 @@ Na segunda parte será feita a Regra de associação usando dois algoritmos: Apr
 
 #### **1. Resumo Tamanho da Família** 
 O mínimo é 1 e o máximo é 6. A média é 3,2 e o valor 3 é o que mais aparece. 
+<br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.1_Tabela.png" width="50%">
 
 #### **2.Resumo Valor Total do Pedido (em USD)** 
 A média é 39.75 e a mediana é 15.
+<br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.2_Tabela.png" width="25%">
 
 #### **3.Resumo Quantidade de itens encomendados**
 A média é 5.36 e a mediana é 2. E, 45% das pessoas compram 1 item.
+<br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.3_Tabela.png" width="25%">
   
 #### **4.Resumo de city**
 Existem 58 valores para cidades. Porém 3 cidades estão separadas em bairros. Então o número de cidades em absoluto é um pouco menor, 44. 
+<br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.4_Tabela.png" width="40%">
 
-## **5.Resumo Classificação média do restaurante**
+#### **5.Resumo Classificação média do restaurante**
 As avaliações vão de 0 à 5, sendo 0 a pontuação de restaurantes que não foram avaliados. Na limpeza dos dados foram retirados os restaurantes sem avaliação.
 <br>
 Após isso, o valor mínimo de avalição é 1.3 e o máximo é 5. A média é 3.8 e a mediana é 3.9.
 <br> 
 A proporção de notas está bem distribuída. Sendo 4 a nota com maior frequência.
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.5_Tabela.png" width="50%">
 
 #### **6.Resumo Custo médio por pessoa para uma refeição no restaurante**
 A média é de 3.7 , a mediana é de 3.6 e o máximo é de 21.6. Estes valores são mais baixos que os preços de cada item. Além disso, 22% dos restaurantes tem o custo médio por pessoa de 2.4 Dóllares.
+<br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.6_Tabela.png" width="50%">
 
 #### **7.Resumo Tipo de cozinha oferecida pelo restaurante** 
 Existem 603 tipos de restaurante, porém alguns estão combinados. Se fosse retirado o nome depois da vírgula, quantidade de tipos de restaurante cairia para 70. 
+<br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.7_Tabela.png" width="70%">
 
 #### **8.Resumo ocupação do usuário**
 Existem apenas 4 tipos de ocupação estudante (52%), empregado (31%), autônomo (13%) e dona de casa (2%).
+<br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.8_Tabela.png" width="40%">
 
 #### **9.Resumo Renda mensal do usuário**
 A maior parte dos clientes não possuem renda (47%), provavelmente, são os mesmos clientes que estudam.
+<br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.9_Tabela.png" width="40%">
 
 #### **10.Resumo Escolaridade do usuário** 
 A maior parte dos clientes tem graduação (46 %) ou Pós graduação (43%).
+<br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.10_Tabela.png " width="40%">
 
 #### **11.Resumo Idade**
 Os clientes tem uma faixa etária de 18 e 33 anos. Sendo que na média, eles tem 24 anos. 
+<br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.11_Tabela.png" width="20%">
 
 ### Análise Preço e Quantidade
 Nesta secção será analisada as colunas:
@@ -84,12 +109,18 @@ Também será analisada o número de pedidos.Porém, não existe uma coluna com 
 
 #### **12.Qual a porcentagem de alimentos vegetarianos e não vegetarinos?**
 66.47 % dos alimentos são vegetarianos e 33.53% são não vegetarianos
+<br> <br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.12_Grafico.png" width="50%">
 
 ####  **13.Qual a Distribuição de preço de alimentos vegetarinos?**
 A média de preço é de 2.3 Dólares
+<br> 
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.13_Tabela.png" width="20%">
 
 #### **14.Qual a Distribuição de preço de alimentos NÃO vegetarinos?**
 A média de preço é de 3.09 Dólares
+<br> 
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.14_Tabela.png " width="20%">
 
 #### **15. Ranking das 10 categorias de restaurantes com maior nº de pedidos** 
 <div align="justify">
