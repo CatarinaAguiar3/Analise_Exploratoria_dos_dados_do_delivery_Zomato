@@ -724,8 +724,61 @@ O que pode ser feito? Atrair clientes de outras faixas etárias.
         tentar atrair para o app restaurantes compatíveis com tais preferências.</li>
     </ul>
 </ul>
+<br>
 
-## 2. 
+## 2. Ampliação da presença em cidades universitárias
+No tópico 42, foi descoberto que pessoas sem renda tem o segundo valor total por pedido. Levando em consideração que o público da Zomato é jovem. Possivelmente, estas pessoas são universitárias bancadas pelos pais.
+Esta hipótese é validada pelo tópico 22. Nele, descobriu-se as cidades que possuem os maiores valores totais por pedido. Por exemplo, 
+  * Ahmedabad tem o maior valor total por pedido e ela abriga a Indian Institute of Management Ahmedabad (IIMA), uma das principais escolas de administração 
+    da Índia.
+  *  Allahabad tembém abriga outra universidade importante, a University of Allahabad
+Portanto, uma estratégia seria ampliar a presença da Zomato em cidades com grande número de universidades.
+<br>
+
+## 3. 48% dos restaurantes não tem avaliação
+Isso é um problema caso a empresa queira fazer um sistema de recomendação, por exemplo. A solução seria incentivar os clientes a avaliarem os restaurantes. Como isso pode ser feito? A empresa poderia oferecer cupons de desconto para quem avaliassem certo número de restaurantes. 
+<br>
+
+## 4. Produtos vegetarianos são os mais vendidos
+Isto não é um problema. Porém quando a Zomato aceitar um restaurante em seu app, deve se atentar se ele tem opções vegetarianas no cardápio. Vale ressaltar que alimentos vegetarianos também são os mais baratos. 
+<br>
+
+## 5. As comidas mais populares variam em cada cidade
+Um indicativo dos tipos de comida mais populares é a religião predominante da cidade. 
+<br>
+Por exemplo, cidades cuja religião predominante é puramente Hinduísmo tem preferencias diferentes de cidades cujas as religiões predominantes são em primeiro lugar Islamismo e em segundo lugar Hinduísmo (1.Islamismo_2.Hinduismo).
+<br><br>
+Então, se por acaso, as vendas estiverem baixas em alguma cidade, seria útil o app Zomato procurar parcerias com restaurantes que possuem as categorias de comidas preferidas da religião predominante daquela cidade.
+<br><br>
+Ou ainda, se a Zomato começar a operar em uma nova cidade, esta associação entre comida mais popular e religião predominante na cidade, será útil para a empresa direcionar melhor a busca por restaurantes parceiros.
+<br>
+
+## 6. Ampliar presença em grandes centros econômicos e cidades de médio porte em expansão rápida
+Grandes centros econômicos como Ahmedabad possuem os maiores números de pedido e os maiores valores totais por pedido. Entretanto, na base de dados não há muitos grandes centros, como Calcultá. Logo, este é mercado pouco explorado pela Zomato.
+<br><br>
+Além disso, cidades de médio porte com rápido crescimento econômico, como Agartala, são as que possuem os maiores números de pedidos por habitantes. Logo, estas cidades também grande potencial de geração de lucro.
+<br>
+Se a empresa pretender expandir seu negócio, seria uma boa ideia considerar estes dois perfis de cidades. 
+<br>
+
+## 7. Em cidades com alto número de moradores em favela, deve-se atrair outro perfil de restaurante
+Cidades com alto número de moradores em favela possuem itens caros. O que dificulta o consumo da população de baixa renda, isso gera um baixo valor total do pedido.
+<br>
+Esta questão é relevante, pois nestes lugares a empresa não está atingindo todo o potencial de clientes.
+<br>
+A Zomato poderia focar em atrair para seu app restaurantes locais com preços mais acessíveis, talvez focar estabelecimentos menores. Isso poderia atrair o público de classe média baixa.
+<br>
+
+## 8. 96% dos clientes compram a mesma categoria de alimentos
+Como sugestão, a empresa poderia incluir, em seu app, uma coluna de subcategoria de comida melhorar o seu sistema de recomendação e a experiência de compra dos clientes.
+<br>
+Por exemplo, imagine um cliente que costuma comprar vários tipos hamburguer e refrigerantes. Ambos poderiam estar na categoria Fast Food. 
+<br>
+Se houvesse uma subcategoria para hamburguer e outra para refrigerante, a recomendação seria mais eficaz e não precisaria descer até o item. 
+<br>
+Além disso, ao navegar pela subcategoria "hambúrgueres", ele encontraria facilmente as opções que mais lhe agradam, sem precisar navegar por toda a categoria "Fast Food".
+<br>
+
 
 
 
