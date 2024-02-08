@@ -47,13 +47,13 @@ O mínimo é 1 e o máximo é 6. A média é 3,2 e o valor 3 é o que mais apare
 ### **2.Resumo Valor Total do Pedido (em USD)** 
 A média é 39.75 e a mediana é 15.
 <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.2_Tabela.png" width="70%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.2_Tabela.png" width="50%">
 <br>
 
 ### **3.Resumo Quantidade de itens encomendados**
 A média é 5.36 e a mediana é 2. E, 45% das pessoas compram 1 item.
 <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.3_Tabela.png" width="70%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.3_Tabela.png" width="50%">
 <br>
 
 ### **4.Resumo de city**
