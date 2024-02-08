@@ -257,13 +257,13 @@ E, Alappuzha é um importante centro turístico. A cidade é conhecida pelos seu
 <br>
 Fontes: <a href="https://pt.wikipedia.org/wiki/Economia_da_%C3%8Dndia">Wikipedia</a> e <a href="https://www.investindia.gov.in/pt-br/great-places-for-manufacturing-in-india">Investindia.gov.in</a>]
 <br><br>
-<img src="" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.22_Grafico.png" width="80%" >
 <br><br>
 
 O mapa a seguir foi feito no Power Bi
 <br>
 <center>
-<img src="" width="70%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.22_mapa_cidades_com_maiores_valores_totais_por_pedido_(sales_amount)1.png" width="70%" >
 </center>
 <br><br>
 
@@ -280,7 +280,7 @@ Hyderabadi é uma mistura da culinária Mughlai e do norte da Índia, com influ�
 <br><br>
 Bengali é um estilo culinário de Bengala, que compreende Bangladesh e os estados indianos de Bengala Ocidental e Tripura. Ela tem como ingredientes arroz, lentilhas, peixe, carne bovina e de cabra.   
 <br><br>
-<img src="" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.23_Grafico.png" width="80%" >
 <br><br>
 
 ### **24. Cidades com maiores nº de pedidos: Valores totais por pedido (sales_amount) vs nº de pedidos**
@@ -297,7 +297,7 @@ A cidade de Bangalore também apresenta dois resultados contrastantes:
 <li>Os distritos de Koramangala e HSR, tem um alto número de pedidos, porém com baixo valor total. Eles são distritos pequenos, porém muito povoados.</li>
 </ul> 
 
-<img src="../Imagens/Analise_Descritiva_Geral/Q.24/Q.24_card_city3.png" width="95%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.24_card_city3.png" width="50%">
 Fonte:<a href="https://geoiq.io/places/Koramangala/6P0l0H8Jya">geoIQ</a>
 
 <br><br>
