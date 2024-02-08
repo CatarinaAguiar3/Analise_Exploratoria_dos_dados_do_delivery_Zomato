@@ -622,3 +622,21 @@ Um valor de elevação de 1 indica que os dois itens são independentes, um valo
 Por exemplo, se lift for igual a 2.1 , significa que a chance de encontrar pão e leite juntos é 2.1 vezes maior do que encontrar cada um individualmente.
 
 ## Interpretação do Resultado da Regra de Associação 2 
+### Algoritmo Apriori
+Com base nos parâmetros escolhidos, foram encontradas 36 regras únicas usando o algoritmo Apriori. Nota-se que há um padrão, com valores baixos de Support e valores altos/moderados de Confidence e lift. 
+<br><br>
+Isso mostra que **<mark>há uma alta probabilidade de os alimentos das regras serem comprados juntos. Porém essas regras acontecem com pouca frequência.</mark>** 
+<br>
+Além disso, também é possível concluir que **<mark>as chances de os alimentos da regra serem comprados juntos é maior que de serem comprados separados.</mark>**
+<br><br>
+
+#### **Dal Fry e Jeera Rice**
+Dal Fry é um prato popular indiano feito com lentilhas, cebola, tomate, especiarias e ervas.
+<br>
+ Jeera Rice é um prato indiano composto por arroz e sementes de cominho. É um prato muito popular no subcontinente indiano e mais comumente usado como prato de arroz todos os dias.
+ [<img src="../Imagens/Regra_de_Associação/card_Dal_e_Jeera.png" width="70%">](../Imagens/Regra_de_Associação/card_Dal_e_Jeera.png)
+
+ Na linha 118  Dal Fry foi o antecendente e o consequente foi Jeera Rice. Ou seja, a compra de Dal Fry implica na compra de Jeera Rice. 
+<br>
+Na linha 119, os antecendentes e consequentes desta regra mudam. Portanto, pode-se concluir que há uma associação na compra de Dal Fry e de Jeera Rice.
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Regra_de_Associa%C3%A7%C3%A3o/Tabela_Interpreta%C3%A7%C3%A3o_Regra_de_Associa%C3%A7%C3%A3o.png" width="75%">
