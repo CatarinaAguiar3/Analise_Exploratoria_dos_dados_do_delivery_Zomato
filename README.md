@@ -483,3 +483,10 @@ Não há uma relação clara entre as duas variáveis. Por exemplo, Japonese é 
 <br><br>
 <img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.36_Grafico.png" width="80%" >
 <br><br>
+
+## Análise do Perfil dos clientes
+#### **37. Qual o Tamanho médio  das Famílias ?** 
+O tamanho médio das famílias é de 3 à 4 pessoas. 
+![](../Imagens/Analise_Descritiva_Geral/Q.37_card_tamanho_familia.png)
+[<img src="../Imagens/Analise_Descritiva_Geral/Q.37_card_tamanho_familia.png" width="50%">](../Imagens/Analise_Descritiva_Geral/Q.37_card_tamanho_familia.png)
+
