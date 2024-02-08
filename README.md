@@ -299,6 +299,7 @@ A cidade de Bangalore também apresenta dois resultados contrastantes:
 </ul> 
 
 <img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.24_card_city3.png" width="50%">
+<br>
 Fonte:<a href="https://geoiq.io/places/Koramangala/6P0l0H8Jya">geoIQ</a>
 <br><br>
 <img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.24_Grafico.png" width="80%" >
@@ -618,36 +619,38 @@ Buscou-se analisar vendas em cada dia semana separadas pelos anos.
 As regras de associação ajudam a descobrir relacionamentos entre itens de uma base de dados. Essas regras possuem alguns elementos importantes como:<br>
 **Antecedentes**: Conjunto de itens que precisam estar presentes na transação para que a regra se aplique.<br>
 **Consequentes**: Conjunto de itens que é previsto pela regra. Em outras palavras, se uma transação contém o(s) antecedente(s), a regra prevê que ela também conterá o(s) consequente(s) com uma certa probabilidade.
-Supondo que o antecedente seja leite o consequente seja pão.<br>
-<br>
-[<img src="../Imagens/Regra_de_Associação/leite.implica.em.pao.png" width="50%" >](../Imagens/Regra_de_Associação/leite.implica.em.pao.png)
-<br>
+Supondo que o antecedente seja leite o consequente seja pão.
 <br><br>
-<img src="" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Regra_de_Associa%C3%A7%C3%A3o/leite.implica.em.pao.png" width="50%" >
 <br><br>
 
-**Antecedent support:** Proporção de transações no seu conjunto de dados que contém o(s) antecedente(s). <br>
-[<img src="../Imagens/Regra_de_Associação/antecedent_support.png" width="70%">](../Imagens/Regra_de_Associação/antecedent_support.png) <br>
+**Antecedent support:** Proporção de transações no seu conjunto de dados que contém o(s) antecedente(s). 
+<br>
 Por exemplo, supondo que antecedent support é igual a 0.14. Significa que 14% das transações da base de dados possuem leite.
 <br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Regra_de_Associa%C3%A7%C3%A3o/antecedent_support.png" width="70%">
+<br><br>
 
 
-**Consequent support:** Proporção de transações no seu conjunto de dados que contém o(s) consequente(s).<br>
-[<img src='../Imagens/Regra_de_Associação/consequent_support1.png' width="70%"> ](../Imagens/Regra_de_Associação/consequent_support1.png)<br>
+**Consequent support:** Proporção de transações no seu conjunto de dados que contém o(s) consequente(s).
+<br>
 Por exemplo, supondo que consequent support é igual a 0.21. Significa que 21% das transações da base de dados possuem pão.
 <br><br>
-
-**Support:** Proporção de transações no seu conjunto de dados que contêm ambos os itens, tanto o antecedente quanto o consequente. Ou seja, é o número de transações para as quais uma regra faz a predição correta (utilidade). Suporte está associado a significância de estatística da regra.<br>
-Esta métrica serve para eliminar regras pouco interessantes, ou, eliminar conjunto de itens que não atendem ao critério mínimo. 
-[<img src="../Imagens/Regra_de_Associação/support.png" width="70%">](../Imagens/Regra_de_Associação/support.png)
-<br>
-Por exemplo, sendo o antecedente pão e o consequente leite. Se o support for igual a 0.10, significa que 10% das transações contém pão e leite juntos.
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Regra_de_Associa%C3%A7%C3%A3o/consequent_support1.png" width="70%">
 <br><br>
 
-**Confidence:** número de transações que a regra prediz corretamente entre as transações para as quais a regra se aplica (certeza). Ou seja, esta medida define a probabilidade de ocorrência do consequente no carrinho dado que o carrinho já possui os antecedentes. Esta métrica está associada a acurácia ou precisão.<br>
-[<img src="../Imagens/Regra_de_Associação/confidence.png" width="70%">](../Imagens/Regra_de_Associação/confidence.png)
+**Support:** Proporção de transações no seu conjunto de dados que contêm ambos os itens, tanto o antecedente quanto o consequente. Ou seja, é o número de transações para as quais uma regra faz a predição correta (utilidade). Suporte está associado a significância de estatística da regra.
+<br>
+Esta métrica serve para eliminar regras pouco interessantes, ou, eliminar conjunto de itens que não atendem ao critério mínimo.
+<br>
+Por exemplo, sendo o antecedente pão e o consequente leite. Se o support for igual a 0.10, significa que 10% das transações contém pão e leite juntos.
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Regra_de_Associa%C3%A7%C3%A3o/support.png" width="70%">
+<br><br>
+
+**Confidence:** número de transações que a regra prediz corretamente entre as transações para as quais a regra se aplica (certeza). Ou seja, esta medida define a probabilidade de ocorrência do consequente no carrinho dado que o carrinho já possui os antecedentes. Esta métrica está associada a acurácia ou precisão.
 <br>
 Por exemplo, se o confidence for igual a 0.76, significa que há 76% de chance de uma transação que tem pão também ter leite.
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Regra_de_Associa%C3%A7%C3%A3o/confidence.png" width="70%">
 <br><br>
 
 **Lift:** mede o grau em que dois itens são dependentes um do outro, em comparação com o que seria esperado se fossem independentes. 
@@ -669,8 +672,9 @@ Além disso, também é possível concluir que **<mark>as chances de os alimento
 Dal Fry é um prato popular indiano feito com lentilhas, cebola, tomate, especiarias e ervas.
 <br>
  Jeera Rice é um prato indiano composto por arroz e sementes de cominho. É um prato muito popular no subcontinente indiano e mais comumente usado como prato de arroz todos os dias.
- [<img src="../Imagens/Regra_de_Associação/card_Dal_e_Jeera.png" width="70%">](../Imagens/Regra_de_Associação/card_Dal_e_Jeera.png)
-
+ <br>
+ <img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Regra_de_Associa%C3%A7%C3%A3o/card_Dal_e_Jeera.png" width="70%">
+ <br>
  Na linha 118  Dal Fry foi o antecendente e o consequente foi Jeera Rice. Ou seja, a compra de Dal Fry implica na compra de Jeera Rice. 
 <br>
 Na linha 119, os antecendentes e consequentes desta regra mudam. Portanto, pode-se concluir que há uma associação na compra de Dal Fry e de Jeera Rice.
@@ -688,10 +692,9 @@ Confidence das linhas 118 e 119 são diferentes. Esta métrica é, respectivamen
   </li>  
 </ul>
 <br><br>
-[<img src="../Imagens/Regra_de_Associação/insight_reg_ass1.png" width="100%">](../Imagens/Regra_de_Associação/insight_reg_ass1.png)
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Regra_de_Associa%C3%A7%C3%A3o/insight_reg_ass1.png" width="95%">
 <br><br>
 O **lift** das duas regras é de 3,13 Isso significa que as chances de encontrar Dal Fry e Jeera Rice juntos é 3,13 vezes maior do que encontrar cada um individualmente. Pode-se concluir estes dois itens são altamente dependentes um do outro, logo costumam ser comprados juntos.
-
 <br>
 Em suma, clientes que compram Dal Fry também compram Jeera Rice. Além disso, este tipo de análise pode ser feita da mesma forma para os outros itens.
 
@@ -813,12 +816,6 @@ Se houvesse uma subcategoria para hamburguer e outra para refrigerante, a recome
 <br>
 Além disso, ao navegar pela subcategoria "hambúrgueres", ele encontraria facilmente as opções que mais lhe agradam, sem precisar navegar por toda a categoria "Fast Food".
 <br>
-
-
-
-
-
-
 
 
 
