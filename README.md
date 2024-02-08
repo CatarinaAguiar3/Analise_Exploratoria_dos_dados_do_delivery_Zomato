@@ -348,7 +348,7 @@ Para verificar se esta lógica está correta, será testada a correlação da po
 <br><br>
 A seguir, a Tabela com as informações geoeconômicas da Índia retiradas do site <a href="https://www.census2011.co.in/ ">Census 2011 Índia (2011)</a>.Vale Ressaltar que em algumas cidades não foi encontrada o número de moradores em favela.
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Tabela_An%C3%A1lise_%C3%8Dndia_infoma%C3%A7%C3%B5es_geoecon%C3%B4micas.png" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Tabela_An%C3%A1lise_%C3%8Dndia_infoma%C3%A7%C3%B5es_geoecon%C3%B4micas.png" width="90%" >
 <br><br>
 
 ###  **25. Relação entre o preço por item e porcentagem de residentes que moram em favela** 
@@ -358,7 +358,7 @@ Isso indica que existe associação entre o preço por item e a porcentagem de r
 <br><br>
 Portanto, cidades com altos preços por item, também possuem alto número de favelas. Este resultado pode indicar que as cidades indianas tem grande desigualdade econômica e também explica o porque de 45% das pessoas desta base de dados comprarem apenas 1 item (visto na pergunta 3)
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.25_Correlacoes.png" width="50%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.25_Correlacoes.png" width="70%" >
 <br><br>
 
 ### **26. Relação entre custo médio da refeição e porcentagem de residentes que moram em favela** 
@@ -366,9 +366,9 @@ Em ambas as correlações, o p-valor foi muito baixo e a correlação fraca. A C
 <br>
 Portanto, há envidência <mark>**de uma relação entre o custo médio por refeição por cidade e a porcentagem de moradores de favela por cidade. Porém, a forma desta relação não é clara.**</mark>
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.26_Correlacoes.png" width="50%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.26_Correlacoes.png" width="70%" >
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.26_Grafico.png" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.26_Grafico.png" width="90%" >
 <br><br>
 
 ### **27. Relação entre a porcentagem de residentes que moram em favela e a média do valor total de pedidos (sales_amount_usd)** 
@@ -378,9 +378,9 @@ E, ambos os coeficientes indicam que há uma relação negativa entre valor tota
 De modo geral, pode-se dizer que <mark>**há associação negativa entre o valor total do pedido e nº de moradores de favela.**</mark>. De modo que quando uma variável aumenta, a outra diminui.De modo que quando uma variável aumenta, a outra diminui. <br><br>
 Este resultado faz sentido, pois um grande número de moradores em favela pode ser um indicativo de pobreza, logo, as pessoas não tem muito dinheiro disponível para gastar com lanche.
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.27_Correlacoes.png" width="50%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.27_Correlacoes.png" width="70%" >
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.27_Grafico.png" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.27_Grafico.png" width="90%" >
 <br><br>
 
 ###  **28. Quais as 15 cidades com os maiores pedidos por habitante?** 
@@ -441,7 +441,7 @@ Nesta base de dados, as cidades cuja religião predominante é:
 Pode-se concluir que a religião predominante de uma cidade influência nos gostos culinários dos clientes daquela localização. 
 #### **Painel**
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.30_mapa_distrib_religiao_por_cidade2.png" width="75%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.30_mapa_distrib_religiao_por_cidade2.png" width="85%" >
 <br><br>
 
 ## **Classificação média dos restaurantes**
@@ -452,19 +452,19 @@ Já a correlação de Pearson foi de 0.21 e o p-valor também foi muito baixo. O
 <br><br>
 Pode-se concluir que <b>há associação entre as variáveis</b>. De modo que,  quando a classificação média do restaurante, o número de avaliações também aumenta. Entretanto, esta associação não implica em causalidade, é possível que outros fatores influenciem esta relação.
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.32_Correlacoes.png" width="50%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.32_Correlacoes.png" width="70%" >
 <br><br>
 
 ### **33. Existe correlação entre a classificação do restaurante e o custo médio por pessoa?** 
 Em ambas as correlações o resultado foi positivo e o p-valor foi muito baixo. Indicando que existe associação entre associação entre as variáveis. De modo, que um aumento da classificação do restaurante está associado a um aumento no custo médio. 
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.33_Correlacoes.png" width="50%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.33_Correlacoes.png" width="70%" >
 <br><br>
 
 ### **34. Qual a correlação entre o preço médio da refeição e a classificação do restaurante?** 
 As correlações deram um valor positivo e baixo. E, os p-valor foram significativos. Portanto, existe uma associação positiva (mas fraca) entre o preço médio da refeição e a classificação do restaurante.
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.34_Correlacoes.png" width="50%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.34_Correlacoes.png" width="70%" >
 <br><br>
 
 ###  **35. Quais os tipos de restaurantes com a pontuação mais alta?**
@@ -480,23 +480,23 @@ Não há uma relação clara entre as duas variáveis. Por exemplo, Japonese é 
 <br>
 <mark>**Pode-se afirmar que os tipos de restaurantes com maiores preços têm boas classificações (acima de 3.8)**</mark> 
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.36_tabela_preco_e_classificacao1.png" width="60%">
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.36_tabela_preco_e_classificacao1.png" width="70%">
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.36_Grafico.png" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.36_Grafico.png" width="90%" >
 <br><br>
 
 ## Análise do Perfil dos clientes
 ### **37. Qual o Tamanho médio  das Famílias ?** 
 O tamanho médio das famílias é de 3 à 4 pessoas. 
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.37_card_tamanho_familia.png" width="45%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.37_card_tamanho_familia.png" width="50%" >
 <br><br>
 
 
 ###  **38. Qual a porcentagem de mulheres e homens ?** 
 Há 43% de clientes mulheres e 56% de clientes homens
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.38_Grafico.png" width="60%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.38_Grafico.png" width="70%" >
 <br><br>
 
 ### **39. Valor total do pedido (sales_amount_usd) x  Tamanho das Famílias** 
@@ -505,12 +505,11 @@ Foi utilizado a média e a mediana do valor total do pedido. Pois estes dois val
    <li><b>Usando a Média:</b>As famílias tem de 1 à 6 membros. E, as famílias com 5 pessoas são as que mais gastam ; seguidas das famílias com 1 e 6 pessoas. As famílias com 2 e 4 membros têm os menores gastos.</li>
    <li><b>Usando a Mediana:</b> As famílias com 6 membros tiveram o maior gasto, seguido pelas famílias de 5,4 e 3 membros.</li>
 </ul>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.39_Tabela.png" width="50%" >
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.39_Tabela.png" width="35%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.39_Grafico_Media.png" width="70%" >
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.39_Grafico_Media.png" width="60%" >
-<br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.39_Grafico_Mediana.png" width="60%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.39_Grafico_Mediana.png" width="70%" >
 <br><br>
 
 
@@ -522,8 +521,7 @@ A média tem valores mais altos do que a mediana. E, a diferença entre as duas 
   <li><b>Usando a Média:</b>os valores são bem próximos. As famílias com 2 membros compram itens mais caros. Em seguida, estão as famílias com 1, 5, 4, 3 e 6 membros.</li> 
   <li><b>Usando a Mediana:</b> Os valores são bem parecidos. Famílias de tamanho 1, 2 e 4 compram a mesma quantidade de itens. Da mesma forma, famílias com 3,5 e 6 pessoas também compram a mesma quantidade de itens.</li>
 </ul>
-<br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.40_Tabela.png" width="50%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.40_Tabela.png" width="70%" >
 <br><br>
 
 ### **41. Quantidade de itens comprados (sales_qty) x  Tamanho das Famílias** 
@@ -534,8 +532,7 @@ A média tem valores mais altos do que a mediana. E, a diferença entre as duas 
   <li><b>Usando a Média:</b> famílias de tamanho 4 compram a maior quantidade de itens. Seguidas pelas famílias de tamanho 3,5,6 e 1, respectivamente.</li> 
   <li><b>Usando a Mediana:</b> os valores são iguais, todas compram 2 itens.</li>
 </ul>
-<br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.41_Tabela.png" width="50%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.41_Tabela.png" width="70%" >
 <br><br>
 
 
@@ -567,7 +564,7 @@ Além disso, como a média e mediana do valor total do pedido são diferentes, s
   Em <b>último lugar</b> estão as pessoas que ganham <b>menos que 10.000</b>.
  </li>
 </ul>
-<br><br>
+<br>
 Levando em considerando os resultados usando a média e a mediana. Pode-se concluir algumas coisas:
 <ul style="list-style: circle;">
   <li>Em geral, pessoas que ganham menos que 10.000 são as que gastam menos por pedido na Zomato. 
@@ -577,9 +574,9 @@ Levando em considerando os resultados usando a média e a mediana. Pode-se concl
   <li>Pessoas que ganham entre 25.001 e 50.000 também gastam por pedido muito na Zomato.</li>
 </ul>
 <br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.42_tabela_valor_do_pedido_e_renda_mensal2.png" width="60%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.42_tabela_valor_do_pedido_e_renda_mensal2.png" width="70%" >
 <br><br>
-<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.42_grafico.png" width="65%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.42_grafico.png" width="80%" >
 <br><br>
 
 ## **Análise Dias na Semana**
