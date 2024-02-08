@@ -667,64 +667,37 @@ O nome desta cliente é Joshua Jimenez, ela tem 27 anos e é pós graduada. Alé
 <br><br>
 Entre os itens comprados por ela estão **Dal Fry** e **Jeera Rice**. Com base nisso, algumas recomendações para futuras compras são:
 <br>
-<div with=100%>
-  <div style="width:50%; float:left;">
-  <p style="text-align: center;">
-      <b>Recomendações para quem compra <br><mark>Dal Fry (Apriori)</mark></b>
-    </p>
-  <ul style="list-style:none;"> 
-    <li>1. Butter Naan</li>
-    <li>Chana Masala</li>
-    <li>Chicken Fried Rice</li>
-    <li>Dal Makhani</li>
-    <li>Egg Fried Rice</li>
-    <li>Veg Fried Rice</li>
-  </ul>
-  </div> 
-  <div style="width:50%; float:left">
-    <p style="text-align: center;">
-      <b>Recomendações para quem compra <br><mark>Jeera Rice (Apriori)</mark></b>
-    </p>
-    <ul style="list-style:none;"> 
-      <li>1. French Fries</li>
-      <li>Plain Rice</li>
-      <li>Shahi Paneer</li>
-      <li>Tandoori Roti</li>
-      <li>Tomato Soup</li>
-      <li>Veg Pulao</li>
-    </ul>
-    </div>
-</div>
+
+ #### <b>Recomendações para quem compra <mark>Dal Fry (Apriori)</mark></b>
+ <ul>
+   1. Butter Naan <br>
+   2. Chana Masala <br>
+   3. Chicken Fried Rice <br>
+   4. Dal Makhani <br>
+   5. Egg Fried Rice <br>
+   6. Veg Fried Rice
+</ul>
 <br>
 
-<div style="width:100%;">
-  <div style="width:50%; float:left;"> 
-  <p style="text-align: center;">
-    <b>Recomendações para quem compra <br><mark>Dal Fry (FP-Growth)</mark></b>
-  </p>
-  <ul style="list-style:none;"> 
-    <li>7. Garlic Naan</li>
-    <li>Gobi Manchurian</li>
-    <li>Egg Curry</li>
-    <li>Green Salad</li>
-    <li>Veg Noodles</li>
-    <li>Mushroom Chilli</li>
+#### <b>Recomendações para quem compra <mark>Dal Fry (FP-Growth)</mark></b>
+<ul>
+   7. Garlic Naan <br>
+   8. Gobi Manchurian <br>
+   9. Egg Curry <br>
+   10. Green Salad <br>
+   11. Veg Noodles <br>
+   12. Mushroom Chilli <br>
+</ul>
+
+#### <b>Recomendações para quem compra <mark>Jeera Rice (Apriori)</mark></b>
+   <ul>
+     1. French Fries <br>
+     2. Plain Rice <br>
+     3. Shahi Paneer <br>
+     4. Tandoori Roti <br>
+     5. Tomato Soup <br>
+     6. Veg Pulao <br>
   </ul>
-  </div>
+   
 
-  <div style="width:50%; float:left;"> 
-  <p style="text-align: center;">
-    <b>Recomendações para quem compra <br><mark>Jeera Rice  (FP-Growth)</mark></b>
-  </p>
-  <ul style="list-style:none;"> 
-    <li>7. Chicken Tikka Masala</li>
-    <li>Ghee Rice</li>
-    <li>Kadai Paneer</li>
-    <li>Dal Tadka</li>
-    <li>Cheese Sandwich</li>
-    <li>Veg Schezwan Fried Rice</li>
-  </ul>  
-  </div>
-</div>
-
-
+ 
