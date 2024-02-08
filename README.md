@@ -688,6 +688,7 @@ Entre os itens comprados por ela estão **Dal Fry** e **Jeera Rice**. Com base n
    11. Veg Noodles <br>
    12. Mushroom Chilli <br>
 </ul>
+<br>
 
 #### <b>Recomendações para quem compra <mark>Jeera Rice (Apriori)</mark></b>
    <ul>
@@ -698,6 +699,62 @@ Entre os itens comprados por ela estão **Dal Fry** e **Jeera Rice**. Com base n
      5. Tomato Soup <br>
      6. Veg Pulao <br>
   </ul>
+<br>
+
+#### <b>Recomendações para quem compra <mark>Jeera Rice  (FP-Growth)</mark></b>
+<ul>
+  7. Chicken Tikka Masala <br>
+  8. Ghee Rice <br>
+  9. Kadai Paneer <br>
+  10. Dal Tadka <br>
+  11. Cheese Sandwich <br>
+  12. Veg Schezwan Fried Rice <br>
+</ul>
+
+# Conclusões e Insights
+## 1.  Os clientes são jovens (entre 18 e 33 anos)
+O que pode ser feito? Atrair clientes de outras faixas etárias.
+<ul>
+<li>Pode ser feito uma pesquisa para entender o motivo de pessoas mais velhas não usarem o aplicativo. Algumas hipóteses são:</li>
+    <ul>
+        <li>A usabilidade do aplicativo não é amigável para pessoas mais velhas. Então, a solução seria mudar o layout do aplicativo.</li>
+        <li>Pessoas de outras faixas etárias não conhecem o app Zomato. Se for este o caso, a empresa poderia fazer divulgação em plataformas que pessoas mais 
+         velhas usam. Por exemplo, fazer anúncios no Facebook. </li>
+        <li>Os alimentos disponíveis no app não agradam pessoas mais velhas. Neste caso, a Zomato poderia mapear os gostos culinários desta faixa etária e 
+        tentar atrair para o app restaurantes compatíveis com tais preferências.</li>
+    </ul>
+</ul>
+
+## 2. 
+
+
+
+
+
+
+
+
+# Referências
+**Census 2011 India**. Disponível em: [https://www.census2011.co.in/](https://www.census2011.co.in/)</a>  . Acesso em: 29 dez. 2023.
+<br><br> 
+
+India: GDP of major cities 2022.**Statista**. 2022.Disponível em: [https://www.statista.com/statistics/1400141/india-gdp-of-major-cities/](https://www.statista.com/statistics/1400141/india-gdp-of-major-cities/) . Acesso em: 28 dez. 2023.
+<br><br>
+
+**GeoIQ**. Disponível em: [https://geoiq.io/places/Koramangala/6P0l0H8Jya](https://geoiq.io/places/Koramangala/6P0l0H8Jya) . Acesso em : 25 dez. 2023. 
+<br><br>
+
+Mondol, Tapo. Do Indians order less food when eating out, but cook more at home? **Quora**. 2023. Disponível em: [https://www.quora.com/Do-Indians-order-less-food-when-eating-out-but-cook-more-at-home](https://www.quora.com/Do-Indians-order-less-food-when-eating-out-but-cook-more-at-home) . Acesso em: 31 dez. 2023.
+<br><br>
+
+
+MOHAN, N et al. Factors affecting frequency of eating out among Indians. International Conference on Communication and Signal Processing, 6 abr. 2016. Disponível em : [https://ieeexplore.ieee.org/abstract/document/7754477](https://ieeexplore.ieee.org/abstract/document/7754477 ) 
+<br><br>
+
+
+Population of Cities in India 2021. StatisticsTimes.com. 2021. Disponível em: [https://statisticstimes.com/demographics/country/india-cities-population.php]( https://statisticstimes.com/demographics/country/india-cities-population.php) . Acesso em: 27 dez. 2023.
+<br><br>
+
    
 
  
