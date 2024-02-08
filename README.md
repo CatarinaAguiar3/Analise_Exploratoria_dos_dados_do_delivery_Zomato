@@ -284,7 +284,7 @@ Bengali é um estilo culinário de Bengala, que compreende Bangladesh e os estad
 <br><br>
 
 ### **24. Cidades com maiores nº de pedidos: Valores totais por pedido (sales_amount) vs nº de pedidos**
-A cidade de Ahmedabad apresent três resultados:
+A cidade de Ahmedabad apresenta três resultados:
 <ul>
 <li>O distrito de Vastrapur tem um valor total por pedido alto e um número de pedidos mediano. Curiosamente, este distrito é pequeno, porém muito povoados.</li>
 <li>Os distritos de Navrangpura tem um valor total por pedido e um número de pedidos baixos. Ele também é um distrito pequeno e muito povoado.</li> 
@@ -299,9 +299,8 @@ A cidade de Bangalore também apresenta dois resultados contrastantes:
 
 <img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.24_card_city3.png" width="50%">
 Fonte:<a href="https://geoiq.io/places/Koramangala/6P0l0H8Jya">geoIQ</a>
-
 <br><br>
-<img src="" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.24_Grafico.png" width="80%" >
 <br><br>
 
 ## Análise Índia
@@ -345,9 +344,10 @@ Vale ressaltar que o objetivo é verificar se existe associação entre as vari�
 
 </ul>
 Para verificar se esta lógica está correta, será testada a correlação da porcentagem de moradores em favela com as variáveis relacionadas a preço e quantidade (nº de pedidos).
-
 <br><br>
-<img src="" width="80%" >
+A seguir, a Tabela com as informações geoeconômicas da Índia retiradas do site <a href="https://www.census2011.co.in/ ">Census 2011 Índia (2011)</a>.Vale Ressaltar que em algumas cidades não foi encontrada o número de moradores em favela.
+<br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Tabela_An%C3%A1lise_%C3%8Dndia_infoma%C3%A7%C3%B5es_geoecon%C3%B4micas.png" width="80%" >
 <br><br>
 
 ###  **25. Relação entre o preço por item e porcentagem de residentes que moram em favela** 
