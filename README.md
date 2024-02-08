@@ -15,8 +15,7 @@
  <a href="#regra-de-associcao">Regra de Associação</a><br>
  <a href="#referências">Referências</a><br>
 
-  
-# Introdução
+
 # Introdução
 <div style="text-align: justify;">
 A análise descritiva será divida em duas partes: <b>Análise descritiva geral</b> e <b>Regra de Associação</b>.
@@ -136,7 +135,7 @@ A média de preço é de 3.09 Dólares
 <img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.14_Tabela.png " width="20%">
 <br>
 
-#### **15. Ranking das 10 categorias de restaurantes com maior nº de pedidos** 
+### **15. Ranking das 10 categorias de restaurantes com maior nº de pedidos** 
 <div align="justify">
 As categorias de restaurante com mais pedidos são: North Indian, Indian, Chinese, South Indian, Pizzas, Biryani, Beverages, Bakery, Desserts e Fast Food.
 <br><br>
@@ -150,8 +149,11 @@ As 5ª, 7ª, 8ª, 9ª e 10ª posições são ocupadas por comidas tipicamente oc
 <br><br>
 OBS: Ramadã é um feriado Islâmico em que os mulçumanos realizam um jejum que se estende do nascer ao pôr do Sol. À noite, eles realizam uma refeição e um dos pratos típicos é o Biryani.
 </div>
+<br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.15_Grafico.png" width="80%">
+<br><br>
 
-#### **16. Ranking das 10 categorias de restaurante com os maiores preços** 
+### **16. Ranking das 10 categorias de restaurante com os maiores preços** 
 <div align="justify">
 As categorias de restaurante com os maiores preços são: Japanese , Naga, Korean , Sushi e Chettinad.
 <br><br>
@@ -165,6 +167,11 @@ Algo que elas têm em comum é possuírem itens não vegetarianos. E, conforme v
 <br>
 Além disso, com exceção de Naga, as outras cozinhas têm opções de frutos do mar. Talvez, essas categorias sejam caras pois a pesca na Índia seja difícil ou cara. 
 </div>
+<br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.16_Grafico.png" width="80%" >
+<br><br>
+
+
 
 ####  **17. Qual o custo médio por pessoa nos restaurantes das 10 cidades com mais pedidos?**
 <div align="justify">
