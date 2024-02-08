@@ -255,13 +255,17 @@ As cidades Ahmedabad, Agra e Allahabad são grandes centros econômicos. Em Agra
 Já Adoni, Abohar, Alligarh e Agartala são centros regionais importantes em seus respectivos estados. <br>
 E, Alappuzha é um importante centro turístico. A cidade é conhecida pelos seus canais e backwaters.
 <br>
-Fontes: <a href="https://pt.wikipedia.org/wiki/Economia_da_%C3%8Dndia">Wikipedia</a> e <a href="https://www.investindia.gov.in/pt-br/great-places-for-manufacturing-in-india">Investindia.gov.in</a>
+Fontes: <a href="https://pt.wikipedia.org/wiki/Economia_da_%C3%8Dndia">Wikipedia</a> e <a href="https://www.investindia.gov.in/pt-br/great-places-for-manufacturing-in-india">Investindia.gov.in</a>]
+<br><br>
+<img src="" width="80%" >
+<br><br>
 
 O mapa a seguir foi feito no Power Bi
 <br>
 <center>
-
+<img src="" width="70%" >
 </center>
+<br><br>
 
 ###  **23. Tipos de restaurantes com os maiores valores totais por pedido (sales_amount)** 
 Os tipos de restaurante com maior sales_amunt são: Mexican, Asian, Grill, Gujarati, Costal, French, Combo, Continental, Hyderabadi e Bengali.
@@ -275,6 +279,9 @@ Continental é um termo generalizado que se refere coletivamente à culinária d
 Hyderabadi é uma mistura da culinária Mughlai e do norte da Índia, com influência das especiarias e ervas da comida nativa Telugu. Esta comida leva temperos, carne, arroz; também faz uso de coco e tamarindo.
 <br><br>
 Bengali é um estilo culinário de Bengala, que compreende Bangladesh e os estados indianos de Bengala Ocidental e Tripura. Ela tem como ingredientes arroz, lentilhas, peixe, carne bovina e de cabra.   
+<br><br>
+<img src="" width="80%" >
+<br><br>
 
 ### **24. Cidades com maiores nº de pedidos: Valores totais por pedido (sales_amount) vs nº de pedidos**
 A cidade de Ahmedabad apresent três resultados:
@@ -292,6 +299,10 @@ A cidade de Bangalore também apresenta dois resultados contrastantes:
 
 <img src="../Imagens/Analise_Descritiva_Geral/Q.24/Q.24_card_city3.png" width="95%">
 Fonte:<a href="https://geoiq.io/places/Koramangala/6P0l0H8Jya">geoIQ</a>
+
+<br><br>
+<img src="" width="80%" >
+<br><br>
 
 ## Análise Índia
 O objetivo desta parte é analisar algumas informações geoecônomicas da Índia e relacioná-las com as variáveis desta base de dados.
@@ -335,17 +346,27 @@ Vale ressaltar que o objetivo é verificar se existe associação entre as vari�
 </ul>
 Para verificar se esta lógica está correta, será testada a correlação da porcentagem de moradores em favela com as variáveis relacionadas a preço e quantidade (nº de pedidos).
 
+<br><br>
+<img src="" width="80%" >
+<br><br>
+
 ###  **25. Relação entre o preço por item e porcentagem de residentes que moram em favela** 
 Em ambas as correlações, o p-valor foi baixo. Portanto a associação entre as variáveis é significativa. Já os coeficientes foram positivos e baixos.
 <br><br>
 Isso indica que existe associação entre o preço por item e a porcentagem de residentes que moram em favelas. Esta associação é positiva e fraca.
 <br><br>
 Portanto, cidades com altos preços por item, também possuem alto número de favelas. Este resultado pode indicar que as cidades indianas tem grande desigualdade econômica e também explica o porque de 45% das pessoas desta base de dados comprarem apenas 1 item (visto na pergunta 3)
+<br><br>
+<img src="" width="80%" >
+<br><br>
 
 ### **26. Relação entre custo médio da refeição e porcentagem de residentes que moram em favela** 
 Em ambas as correlações, o p-valor foi muito baixo e a correlação fraca. A Correlação de Pearson resultou em um valor positivo, enquanto a Correlação de Spearman foi negativa.
 <br>
 Portanto, há envidência <mark>**de uma relação entre o custo médio por refeição por cidade e a porcentagem de moradores de favela por cidade. Porém, a forma desta relação não é clara.**</mark>
+<br><br>
+<img src="" width="80%" >
+<br><br>
 
 ### **27. Relação entre a porcentagem de residentes que moram em favela e a média do valor total de pedidos (sales_amount_usd)** 
 O p-valor das duas correlações foi significativo.
@@ -353,6 +374,9 @@ E, ambos os coeficientes indicam que há uma relação negativa entre valor tota
 <br><br>
 De modo geral, pode-se dizer que <mark>**há associação negativa entre o valor total do pedido e nº de moradores de favela.**</mark>. De modo que quando uma variável aumenta, a outra diminui.De modo que quando uma variável aumenta, a outra diminui. <br><br>
 Este resultado faz sentido, pois um grande número de moradores em favela pode ser um indicativo de pobreza, logo, as pessoas não tem muito dinheiro disponível para gastar com lanche.
+<br><br>
+<img src="" width="80%" >
+<br><br>
 
 ###  **28. Quais as 15 cidades com os maiores pedidos por habitante?** 
 Para responder esta pergunta será feita a contagem do número de pedidos por cidade. Em seguida, será carregada a tabela com a população por cidade. E depois , será feita a união das duas tabelas. 
@@ -374,11 +398,17 @@ Estas cidades tem algo em comum: são de tamanho médio e com rápido cresciment
     <li>Baddi abriga várias empresas farmacêuticas e de manufatura. Sua população é de cerca de 50.000 habitantes.</li>
     <li>A cidade Bahadurgarh tem várias empresas de grande porte, como a Suzuki. Sua população é de 200.000 habitantes.</li>
 </ul>
+<br><br>
+<img src="" width="80%" >
+<br><br>
 
 ###  **29. Qual a correlação entre o número de pedidos por cidade e o tamanho da população?**
 Existe uma correlação positiva e <b>forte</b> entre tamanho da população e número de pedidos. Além disso, o p-valor é  muito pequeno, logo, está associação linear é estatisticamente significativa.
 <br><br>
-Em geral,  <mark>**há uma associação entre número de pedidos e tamanho da população.**</mark>  
+Em geral,  <mark>**há uma associação entre número de pedidos e tamanho da população.**</mark> 
+<br><br>
+<img src="" width="80%" >
+<br><br>
 
 ### **30. Distribuição da Religião Predonominante nas cidades da base de dados. E o tipo de comida com mais pedidos em cada cidade.** 
 O mapa a seguir foi feito no Power Bi usando Tabela <code>nome_city5</code> criada no início da secção <code> Análise Índia</code>
@@ -406,6 +436,9 @@ Nesta base de dados, as cidades cuja religião predominante é:
 
 Pode-se concluir que a religião predominante de uma cidade influência nos gostos culinários dos clientes daquela localização. 
 #### **Painel**
+<br><br>
+<img src="" width="80%" >
+<br><br>
 
 ## **Classificação média dos restaurantes**
 ### **32. Existe alguma correlação entre a classificação média do restaurante e o número de avaliações?** 
@@ -414,15 +447,27 @@ A correlação de Pearson foi de 0.14 e o p-valor foi muito baixo. Indicando que
 Já a correlação de Pearson foi de 0.21 e o p-valor também foi muito baixo. O indicando que há uma associação positiva e moderada entre as variáveis.
 <br><br>
 Pode-se concluir que <b>há associação entre as variáveis</b>. De modo que,  quando a classificação média do restaurante, o número de avaliações também aumenta. Entretanto, esta associação não implica em causalidade, é possível que outros fatores influenciem esta relação.
+<br><br>
+<img src="" width="50%" >
+<br><br>
 
 ### **33. Existe correlação entre a classificação do restaurante e o custo médio por pessoa?** 
 Em ambas as correlações o resultado foi positivo e o p-valor foi muito baixo. Indicando que existe associação entre associação entre as variáveis. De modo, que um aumento da classificação do restaurante está associado a um aumento no custo médio. 
+<br><br>
+<img src="" width="50%" >
+<br><br>
 
 ### **34. Qual a correlação entre o preço médio da refeição e a classificação do restaurante?** 
 As correlações deram um valor positivo e baixo. E, os p-valor foram significativos. Portanto, existe uma associação positiva (mas fraca) entre o preço médio da refeição e a classificação do restaurante.
+<br><br>
+<img src="" width="50%" >
+<br><br>
 
 ###  **35. Quais os tipos de restaurantes com a pontuação mais alta?**
 As comidas Paan , Ice Cream, Waffle e Coastal possuem  as pontuações mais altas.
+<br><br>
+<img src="" width="50%" >
+<br><br>
 
 ###  **36. Qual a classificação média das 10 categorias de restaurantes com preço médio mais alto?** 
 Foi analisado os 10 tipos de restaurantes com maiores os preços mais altos. A partir daí, foi encontrado a classificação média deles.
@@ -430,5 +475,8 @@ Foi analisado os 10 tipos de restaurantes com maiores os preços mais altos. A p
 Não há uma relação clara entre as duas variáveis. Por exemplo, Japonese é o tipo de restaurante com o maior preço e também possui uma classificação alta. Entretanto, Middle Eastern tem um dos preços mais baixos e também possui uma classificação alta.
 <br><br>
 <mark>**Pode-se afirmar que os tipos de restaurantes com maiores preços têm boas classificações (acima de 3.8)**</mark> 
-
+<br>
 <img src="../Imagens/Analise_Descritiva_Geral/Q.36/Q.36_tabela_preco_e_classificacao1.png" width="80%">
+<br><br>
+<img src="" width="50%" >
+<br><br>
