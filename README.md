@@ -411,17 +411,17 @@ Existe uma correlação positiva e <b>forte</b> entre tamanho da população e n
 <br><br>
 Em geral,  <mark>**há uma associação entre número de pedidos e tamanho da população.**</mark> 
 <br><br>
-<img src="" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.29_Correlacao.png" width="50%" >
 <br><br>
 
 ### **30. Distribuição da Religião Predonominante nas cidades da base de dados. E o tipo de comida com mais pedidos em cada cidade.** 
 O mapa a seguir foi feito no Power Bi usando Tabela <code>nome_city5</code> criada no início da secção <code> Análise Índia</code>
 <br>
 É possível observar no mapa que a religião Predominante é o Hinduísmo, seguido do Islamismo. Isso é importante, pois <mark>**a religião pode influenciar os hábitos alimentares, por exemplo, com restrição a algum alimento.**</mark>
-<br><br>
-Além disso, <mark>**cada religião tem suas datas festivas que podem influenciar as vendas neste período.**</mark>
 <br>
-<img src="../Imagens/Analise_Descritiva_Geral/Q.30/Q.30_mapa_distrib_religiao_por_cidade2.png" width="100%">
+Além disso, <mark>**cada religião tem suas datas festivas que podem influenciar as vendas neste período.**</mark>
+<br><br>
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.31_Painel%20(3500%20x%204000%20px).png" width="97%">
 
 ###  **31. Qual a Relação entre Religião Predominante e Tipo de cozinha com maior número de pedidos?** 
 **Processo:**
@@ -437,11 +437,10 @@ Nesta base de dados, as cidades cuja religião predominante é:
 
 <li><b>Hinduísmo</b> e <b>Sikhismo</b> compram mais comida <b>North indian</b>, <b>Pizzas</b>,<b>American</b> e <b>Fast Food</b>.</li>
 </ul>
-
 Pode-se concluir que a religião predominante de uma cidade influência nos gostos culinários dos clientes daquela localização. 
 #### **Painel**
 <br><br>
-<img src="" width="80%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.30_mapa_distrib_religiao_por_cidade2.png" width="75%" >
 <br><br>
 
 ## **Classificação média dos restaurantes**
@@ -452,7 +451,7 @@ Já a correlação de Pearson foi de 0.21 e o p-valor também foi muito baixo. O
 <br><br>
 Pode-se concluir que <b>há associação entre as variáveis</b>. De modo que,  quando a classificação média do restaurante, o número de avaliações também aumenta. Entretanto, esta associação não implica em causalidade, é possível que outros fatores influenciem esta relação.
 <br><br>
-<img src="" width="50%" >
+<img src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Imagens/Analise_Descritiva_Geral/Q.32_Correlacoes.png" width="50%" >
 <br><br>
 
 ### **33. Existe correlação entre a classificação do restaurante e o custo médio por pessoa?** 
