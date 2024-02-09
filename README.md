@@ -25,9 +25,9 @@ A análise descritiva será divida em duas partes: <b>Análise descritiva geral<
 A <b>Análise descritiva geral</b> será dividida em 6 tópicos: <b>Resumo Estatístico das variáveis, Análise Preço e Quantidade, Análise Índia, Rating, Análise do Perfil dos clientes e Análise dos dias da semana.</b>
 <ul>
 <li><b>Resumo Estatístico das variáveis:</b> calculo de medidas estatísticas como a média. O objetivo é entender a distribuição dos dados. Além disso, também será calculado a frequência dos valores únicos.</li>
-<li><b>Análise Preço e Quantidade:</b>o objetivo é investigar as colunas relacionadas a preço e quantidade, por exemplo, preço do item e quantidade vendida.</li>
+<li><b>Análise Preço e Quantidade:</b> o objetivo é investigar as colunas relacionadas a preço e quantidade, por exemplo, preço do item e quantidade vendida.</li>
 <li><b>Análise Índia:</b> analisar como dados geoeconômicos da Índia podem ser relacionar com as variáveis da tabela.</li>
-<li><b>Rating:</b>descobrir mais sobre como a classificação média dos restaurantes e o número de avaliações se relacionam com as outras colunas da tabela.</li>
+<li><b>Rating:</b> descobrir mais sobre como a classificação média dos restaurantes e o número de avaliações se relacionam com as outras colunas da tabela.</li>
 <li><b>Análise do Perfil dos clientes:</b> entender como informações do cliente pode estar associada ao seu comportamento de compra.</li>
 <li><b>Análise dos dias da semana:</b> separar as vendas por dia da semana.</li>
 </ul>
