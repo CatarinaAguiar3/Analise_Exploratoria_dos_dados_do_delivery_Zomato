@@ -35,6 +35,17 @@ A <b>Análise descritiva geral</b> será dividida em 6 tópicos: <b>Resumo Estat
 Na <b> segunda parte será feita a Regra de associação</b> usando dois algoritmos: Apriori e FP-Growth.Em seguida, será feita a análise das regras geradas, além da <b>associação de todas as regras geradas ao user_id.</b>
 </div>
 
+# Objetivo
+O **objetivo inicial** era criar um **Sistema de Recomendação de categorias de comida**. Porém, durante a Análise Exploratória, descobrimos que **96% dos clientes** compram o mesmo tipo de comida.
+<br>
+Então, **o novo objetivo** é fazer uma **Análise Exploratória dos dados** e criar **Regras de Associação dos itens**.
+<br>
+Isto será feito para: <br>
+•	Identificar padrões de compra nos pedidos. <br>
+•	Obter insights sobre o comportamento dos clientes. <br>
+
+
+
 # Análise Descritiva Geral
 ## Resumo Estatístico das variáveis
 
