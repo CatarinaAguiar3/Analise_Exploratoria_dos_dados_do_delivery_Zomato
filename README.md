@@ -2,7 +2,8 @@
 
 <div>
 <h2>Tabela de Conteúdo</h2> 
-  <a href="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/README.md#objetivo">Objetivo</a>
+  <a href="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/README.md#introdu%C3%A7%C3%A3o">Introdução</a> <br>
+  <a href="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/README.md#objetivo">Objetivo</a> <br>
   <a href="#">Introdução da Análise Exploratória</a> <br>
   <a  href="#análise-descritiva-geral">Análise descritiva geral<br>
   <ul style="list-style:none; margin-left: -15px;">
