@@ -31,7 +31,6 @@ A <b>Análise descritiva geral</b> será dividida em 6 tópicos: <b>Resumo Estat
 <li><b>Análise dos dias da semana:</b>separar as vendas por dia da semana.</li>
 </ul>
 
-<br><br>
 Na <b> segunda parte será feita a Regra de associação</b> usando dois algoritmos: Apriori e FP-Growth.Em seguida, será feita a análise das regras geradas, além da <b>associação de todas as regras geradas ao user_id.</b>
 </div>
 
@@ -40,9 +39,9 @@ O **objetivo inicial** era criar um **Sistema de Recomendação de categorias de
 <br>
 Então, **o novo objetivo** é fazer uma **Análise Exploratória dos dados** e criar **Regras de Associação dos itens**.
 <br>
-Isto será feito para: <br>
-•	Identificar padrões de compra nos pedidos. <br>
-•	Obter insights sobre o comportamento dos clientes. <br>
+Isto será feito para: 
+  * Identificar padrões de compra nos pedidos. <br>
+  * Obter insights sobre o comportamento dos clientes. <br>
 
 
 
