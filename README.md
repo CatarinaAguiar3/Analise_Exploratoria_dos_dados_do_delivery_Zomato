@@ -830,7 +830,10 @@ Além disso, ao navegar pela subcategoria "hambúrgueres", ele encontraria facil
 
 # Power Bi
 Foi criado um Dashboard no Power Bi com o intuito de mostrar alguns tópicos da conclusão.E, a seguir, temos um vídeo mostrando o resultado.
-<video src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Power%20Bi/Video_Powe_Bi_(versao_2).mp4"></video>
+<br>
+
+https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/assets/123583987/a9458afc-b946-4fa6-94c8-760fa81fd1ca  
+
 
 
 # Referências
