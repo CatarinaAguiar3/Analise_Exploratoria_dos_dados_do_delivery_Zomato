@@ -828,6 +828,9 @@ Se houvesse uma subcategoria para hamburguer e outra para refrigerante, a recome
 Além disso, ao navegar pela subcategoria "hambúrgueres", ele encontraria facilmente as opções que mais lhe agradam, sem precisar navegar por toda a categoria "Fast Food".
 <br>
 
+# Power Bi
+Foi criado um Dashboard no Power Bi com o intuito de mostrar alguns tópicos da conclusão.E, a seguir, temos um vídeo mostrando o resultado.
+<video src="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/Power%20Bi/Video_Powe_Bi_(versao_2).mp4"></video>
 
 
 # Referências
