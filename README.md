@@ -14,7 +14,9 @@
     <a href="#análise-dias-na-semana">Análise Dias na Semana</a><br>
   </ul>  
  <a href="#regra-de-associcao">Regra de Associação</a><br>
- <a href="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/README.md#conclus%C3%B5es-e-insights">Conclusões e Insights</a> <br>   
+ <a href="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/README.md#conclus%C3%B5es-e-insights">Conclusões e Insights</a> <br>
+ <a href="https://github.com/CatarinaAguiar3/Analise_Exploratoria_dos_dados_do_delivery_Zomato/blob/main/README.md#power-bi">Power 
+  Bi</a> <br>
  <a href="#referências">Referências</a><br>
 
 
